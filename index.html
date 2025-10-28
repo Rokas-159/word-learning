@@ -29,9 +29,10 @@
             <h2>Words learnt</h2>
 
             <div class="options" id="intervalOptionsInput">
-                <input type="radio" id="intervalWordsOption" name="interval" value="interval" checked="checked">
+                <input type="radio" id="intervalWordsOption" name="interval" value="interval" checked="true">
                 <label for="intervalWordsOption">
                     Interval
+                    <br>
                     <input type="number" id="wordStart" placeholder="1" min="1" max="231" autocomplete="off">
                     -
                     <input type="number" id="wordEnd" placeholder="231" min="1" max="231" autocomplete="off">
@@ -40,7 +41,8 @@
                 <input type="radio" id="customWordsOption" name="interval" value="custom">
                 <label for="customWordsOption">
                     Custom
-                    <select id="customWords" multiple>
+                    <br>
+                    <select id="customWords" multiple size="5">
 
                     </select>
                 </label>
@@ -50,6 +52,8 @@
         <a href="list.html" class="fulllist"><h3>View the list</h3></a>
         <a href="https://github.com/Rokas-159/word-learning" target="_blank" class="github"><h3>GitHub <img src="external-link.svg"></img></h3></a>
     </main>
+    <script src="data.js"></script>
+    <script src="words.js"></script>
     <script src="menu.js"></script>
 </body>
 </html>

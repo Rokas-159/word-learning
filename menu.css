@@ -2,14 +2,15 @@ main {
     margin: auto;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: 0.5fr repeat(3, 1fr);
+    grid-template-rows: 0.5fr 1fr 1fr 0.5fr;
     grid-template-areas: 
         "title title title title title"
         "wordlist mode mode manual manual"
         "interval interval start manual manual"
         "interval interval start fulllist github";
     gap: 10px;
-    max-width: 1000px;
+    max-width: 800px;
+    aspect-ratio: 10 / 7;
 }
 
 main > div, main > a {
@@ -40,6 +41,10 @@ main > a:active {
     box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.5);
 }
 
+div > h1, div > h2 {
+    margin-top: 0;
+}
+
 .title {
     grid-area: title;
 }
@@ -60,8 +65,12 @@ main > a:active {
     grid-area: interval;
 }
 
-.interval .options br {
-    margin-bottom: 10px;
+.interval .options {
+    text-align: center;
+}
+
+.interval .options > br {
+    margin-bottom: 16px;
 }
 
 #customWords {

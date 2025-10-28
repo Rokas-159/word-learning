@@ -1,4 +1,4 @@
-const mainstring =
+window['list1'] =
 `abashed - (adj.) embarrassed. e.g. - She Is easily abashed and often turns red from embarrassment. Der. (v.) abash; (adj.) bashful. 
 abdomen - (n.) the part of the body between the chest and legs. e.g. - The pregnant woman's abdomen grew larger every month. Der. (adj.) abdominal. 
 abscond - (v..) to leave a place secretly and go into hiding with stolen money. e.g. - Jeff stole money from the company for which he was chief accountant. Later, he absconded with the funds and is currently thought to be living in Brazil. 
