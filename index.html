@@ -9,7 +9,46 @@
 </head>
 <body>
     <main>
-        
+        <h2 class="title">English Words</h2>
+        <div class="wordlist">
+            <select id="listInput">
+                <option value="1">List 1</option>
+            </select>
+        </div>
+        <div class="mode">
+            <select id="mode">
+                <option value="0">Definitions</option>
+                <option value="1">Examples</option>
+                <option value="2" selected="selected">Definitions & Examples</option>
+            </select>
+        </div>
+        <div class="manual">
+            <h2>Instructions</h2>
+        </div>
+        <div class="interval">
+            <h2>Words learnt</h2>
+
+            <div class="options" id="intervalOptionsInput">
+                <input type="radio" id="intervalWordsOption" name="interval" value="interval" checked="checked">
+                <label for="intervalWordsOption">
+                    Interval
+                    <input type="number" id="wordStart" placeholder="1" min="1" max="231" autocomplete="off">
+                    -
+                    <input type="number" id="wordEnd" placeholder="231" min="1" max="231" autocomplete="off">
+                </label>
+                <br>
+                <input type="radio" id="customWordsOption" name="interval" value="custom">
+                <label for="customWordsOption">
+                    Custom
+                    <select id="customWords" multiple>
+
+                    </select>
+                </label>
+            </div>
+        </div>
+        <a href="test.html" class="start"><h1>Go!</h1></a>
+        <a href="list.html" class="fulllist"><h3>View the list</h3></a>
+        <a href="https://github.com/Rokas-159/word-learning" target="_blank" class="github"><h3>GitHub <img src="external-link.svg"></img></h3></a>
     </main>
     <script src="menu.js"></script>
 </body>

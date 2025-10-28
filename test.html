@@ -9,23 +9,6 @@
 </head>
 <body>
     <main>
-        <form class="wordBox" onsubmit="customRange(event)">
-            <p>Words learnt: </p>
-            
-            <input type="number" id="wordStart" placeholder="1" min="1" max="231" autocomplete="off">
-            -
-            <input type="number" id="wordEnd" placeholder="231" min="1" max="231" autocomplete="off">
-            &nbsp;
-            <select id="mode">
-                <option value="0">Definitions</option>
-                <option value="1">Examples</option>
-                <option value="2" selected="selected">Definitions & Examples</option>
-            </select>
-            &nbsp;
-
-            <button type="submit" id="customRangeButton">Go!</button>
-        </form>
-
         <form class="mainForm" onsubmit="checkAnswer(event)" id="wordForm">
             <p id="output"></p>
             <div class="inputBox">

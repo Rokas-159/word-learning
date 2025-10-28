@@ -1,3 +1,92 @@
 main {
+    margin: auto;
     display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 0.5fr repeat(3, 1fr);
+    grid-template-areas: 
+        "title title title title title"
+        "wordlist mode mode manual manual"
+        "interval interval start manual manual"
+        "interval interval start fulllist github";
+    gap: 10px;
+    max-width: 1000px;
+}
+
+main > div, main > a {
+    background-color: #17A589;
+    border: 2px solid #17A589;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 12px;
+}
+
+main > a {
+    text-align: center;
+    transition: background-color 0.1s ease, border-color 0.1s ease, transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+main > a:hover {
+    background-color: #1ABC9C;
+    border-color: #1ABC9C;
+}
+
+main > a:active {
+    transform: scale(0.96);
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.5);
+}
+
+.title {
+    grid-area: title;
+}
+
+.wordlist {
+    grid-area: wordlist;
+}
+
+.mode {
+    grid-area: mode;
+}
+
+.manual {
+    grid-area: manual;
+}
+
+.interval {
+    grid-area: interval;
+}
+
+.interval .options br {
+    margin-bottom: 10px;
+}
+
+#customWords {
+    vertical-align: top;
+}
+
+.start {
+    grid-area: start;
+}
+
+.fulllist {
+    grid-area: fulllist;
+}
+
+.github {
+    grid-area: github;
+}
+
+.github img {
+    display: inline;
+    height: 1em;
+    vertical-align: middle;
+    margin-bottom: 4px;
+}
+
+a {
+    text-decoration: none;
 }
