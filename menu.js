@@ -5,8 +5,7 @@ const wordStartInput = document.getElementById("wordStart");
 const wordEndInput = document.getElementById("wordEnd");
 const intervalInput = document.getElementById("intervalOptionsInput");
 const customWordInput = document.getElementById("customWords");
-
-let mode = 2;
+const startButton = document.getElementById("startButton");
 
 function range(a, b) {
     if (a > b) [a, b] = [b, a];
@@ -19,27 +18,38 @@ function range(a, b) {
     return arr;
 }
 
-function customRange(e) {
-    e.preventDefault();
+function generateParams() {
+    const isRange = intervalInput.querySelector("input[name='interval']:checked").value === "interval";
 
-    let start = parseInt(document.getElementById("wordStart").value);
-    let end = parseInt(document.getElementById("wordEnd").value);
+    let params = [];
 
-    const mode = document.getElementById("mode").value;
+    const selectedList = listInput.value;
+    params.push("list=" + selectedList);
 
-    if (isNaN(start) || start <= 0 || start > words.length) start = 1;
-    if (isNaN(end) || end <= 0 || end > words.length) end = 231;
+    const selectedMode = parseInt(modeInput.value);
+    params.push("mode=" + selectedMode);
 
-    window.open(
-        window.location.href.split("?")[0] +
-        "?" +
-        (end != 231 || start != 1
-            ? "indices=" + range(start - 1, end - 1).join(",")
-            : "") +
-        "&mode=" +
-        mode,
-        "_blank"
-    );
+    let indices = [];
+
+    if (isRange) {
+        let start = parseInt(document.getElementById("wordStart").value);
+        let end = parseInt(document.getElementById("wordEnd").value);
+
+        if (isNaN(start) || start <= 0 || start > words.length) start = 1;
+        if (isNaN(end) || end <= 0 || end > words.length) end = words.length;
+
+        if (start != 1 || end != words.length) indices = range(start, end);
+    } else {
+        indices = Array.from(customWordInput.selectedOptions).map(x => parseInt(x.value));
+    }
+
+    if (indices.length > 0) params.push("indices=" + indices.join(","));
+
+    return params.length > 0 ? "?" + params.join("&") : "";
+}
+
+function updateStartLink() {
+    console.log(generateParams());
 }
 
 function toggleIntervalOptions(value) {
@@ -74,7 +84,6 @@ function setupIntervalOptions() {
         isRange = true;
         for (let i = 1; i < indices.length; i++) {
             if (indices[i] != indices[i-1]+1) {
-                console.log(indices[i], indices[i-1]);
                 isRange = false;
                 break;
             }
@@ -102,12 +111,16 @@ function setupIntervalOptions() {
 
 function main() {
     setupIntervalOptions();
-}
 
+    if (urlParams.has("mode")) {
+        modeInput.value = urlParams.get("mode");
+    }
 
-if (urlParams.has("mode")) {
-    mode = urlParams.get("mode");
-    document.getElementById("mode").value = mode;
+    modeInput.addEventListener('change', updateStartLink);
+    wordStartInput.addEventListener('change', updateStartLink);
+    wordEndInput.addEventListener('change', updateStartLink);
+    intervalInput.querySelectorAll("input[type='radio']").forEach(el => el.addEventListener('change', updateStartLink));
+    customWordInput.addEventListener('change', updateStartLink);
 }
 
 main();
