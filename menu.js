@@ -109,6 +109,11 @@ function setupIntervalOptions() {
     }
 }
 
+function start() {
+    const params = generateParams();
+    window.location.href = "test.html" + params;
+}
+
 function main() {
     if (urlParams.has("list")) {
         listInput.value = urlParams.get("list");
@@ -125,6 +130,8 @@ function main() {
     wordEndInput.addEventListener('change', updateStartLink);
     intervalInput.querySelectorAll("input[type='radio']").forEach(el => el.addEventListener('change', updateStartLink));
     customWordInput.addEventListener('change', updateStartLink);
+
+    startButton.addEventListener('click', start);
 }
 
 main();

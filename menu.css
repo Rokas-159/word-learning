@@ -13,7 +13,7 @@ main {
     aspect-ratio: 10 / 7;
 }
 
-main > div, main > a {
+main > div, main > a, main > .button {
     background-color: #17A589;
     border: 2px solid #17A589;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
@@ -26,22 +26,23 @@ main > div, main > a {
     padding: 12px;
 }
 
-main > a {
+main > a, .button {
     text-align: center;
+    cursor: pointer;
     transition: background-color 0.1s ease, border-color 0.1s ease, transform 0.1s ease, box-shadow 0.1s ease;
 }
 
-main > a:hover {
+main > a:hover, .button:hover {
     background-color: #1ABC9C;
     border-color: #1ABC9C;
 }
 
-main > a:active {
+main > a:active, .button:active {
     transform: scale(0.96);
     box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.5);
 }
 
-div > h1, div > h2 {
+div:not(.button) > h1, div:not(.button) > h2 {
     margin-top: 0;
 }
 
