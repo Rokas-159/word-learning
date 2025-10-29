@@ -110,6 +110,10 @@ function setupIntervalOptions() {
 }
 
 function main() {
+    if (urlParams.has("list")) {
+        listInput.value = urlParams.get("list");
+    }
+
     setupIntervalOptions();
 
     if (urlParams.has("mode")) {
