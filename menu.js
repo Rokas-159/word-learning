@@ -47,7 +47,7 @@ function toggleIntervalOptions(value) {
         input.checked = false;
     });
 
-    intervalInput.querySelector("input[type='radio'][value='" + value + "']").checked = true;
+    intervalInput.querySelector("input[name='interval'][value='" + value + "']").checked = true;
 }
 
 function setupCustomIndices() {
@@ -83,8 +83,20 @@ function setupIntervalOptions() {
     
     if (isRange) {
         toggleIntervalOptions("interval");
+
+        wordStartInput.value = indices[0];
+        wordEndInput.value = indices[indices.length - 1];
     } else {
         toggleIntervalOptions("custom");
+
+        customWordInput.querySelectorAll("option").forEach(option => {
+            option.selected = false;
+        });
+
+        indices.forEach(index => {
+            const option = customWordInput.querySelector("option[value='" + index + "']");
+            if (option) option.selected = true;
+        })
     }
 }
 
