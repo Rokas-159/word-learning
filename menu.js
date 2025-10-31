@@ -6,6 +6,7 @@ const wordEndInput = document.getElementById("wordEnd");
 const intervalInput = document.getElementById("intervalOptionsInput");
 const customWordInput = document.getElementById("customWords");
 const startButton = document.getElementById("startButton");
+const listButton = document.getElementById("listButton");
 
 function range(a, b) {
     if (a > b) [a, b] = [b, a];
@@ -35,10 +36,10 @@ function generateParams() {
         let start = parseInt(document.getElementById("wordStart").value);
         let end = parseInt(document.getElementById("wordEnd").value);
 
-        if (isNaN(start) || start <= 0 || start > words.length) start = 1;
-        if (isNaN(end) || end <= 0 || end > words.length) end = words.length;
+        if (isNaN(start) || start <= 0 || start > data[listInput.value].length) start = 1;
+        if (isNaN(end) || end <= 0 || end > data[listInput.value].length) end = data[listInput.value].length;
 
-        if (start != 1 || end != words.length) indices = range(start, end);
+        if (start != 1 || end != data[listInput.value].length) indices = range(start, end);
     } else {
         indices = Array.from(customWordInput.selectedOptions).map(x => parseInt(x.value));
     }
@@ -46,10 +47,6 @@ function generateParams() {
     if (indices.length > 0) params.push("indices=" + indices.join(","));
 
     return params.length > 0 ? "?" + params.join("&") : "";
-}
-
-function updateStartLink() {
-    console.log(generateParams());
 }
 
 function toggleIntervalOptions(value) {
@@ -61,7 +58,9 @@ function toggleIntervalOptions(value) {
 }
 
 function setupCustomIndices() {
-    words.forEach((word, i) => {
+    customWordInput.innerHTML = '';
+
+    data[listInput.value].forEach((word, i) => {
         const option = document.createElement("option");
         option.value = i+1;
         option.innerText = i+1 + ' - ' + word.word;
@@ -72,12 +71,12 @@ function setupCustomIndices() {
 function setupIntervalOptions() {
     setupCustomIndices();
 
-    let indices = range(1, words.length);
+    let indices = range(1, data[listInput.value].length);
 
     let isRange = true;
     if (urlParams.has("indices")) {
         isRange = false;
-        indices = urlParams.get("indices").split(",").map(x => parseInt(x)).sort((a, b) => a - b);
+        indices = urlParams.get("indices").split(",").map(x => parseInt(x)).filter(x => (x >= 1 && x <= data[listInput.value].length)).sort((a, b) => a - b);
     }
 
     if (!isRange) {
@@ -89,6 +88,10 @@ function setupIntervalOptions() {
             }
         }
     }
+
+    wordStartInput.max = data[listInput.value].length;
+    wordEndInput.max = data[listInput.value].length;
+    wordEndInput.placeholder = data[listInput.value].length;
     
     if (isRange) {
         toggleIntervalOptions("interval");
@@ -109,15 +112,35 @@ function setupIntervalOptions() {
     }
 }
 
+function setupListSelection() {
+    const keys = Object.keys(data);
+
+    keys.forEach(key => {
+        const option = document.createElement("option");
+        option.value = key;
+        option.innerText = key;
+        listInput.appendChild(option);
+    });
+
+    if (urlParams.has("list")) {
+        listInput.value = urlParams.get("list");
+    } else {
+        listInput.value = keys[keys.length - 1];
+    }
+}
+
 function start() {
     const params = generateParams();
     window.location.href = "test.html" + params;
 }
 
+function loadWordList() {
+    const list = listInput.value;
+    window.location.href = "list.html?list=" + list;
+}
+
 function main() {
-    if (urlParams.has("list")) {
-        listInput.value = urlParams.get("list");
-    }
+    setupListSelection();
 
     setupIntervalOptions();
 
@@ -125,13 +148,22 @@ function main() {
         modeInput.value = urlParams.get("mode");
     }
 
-    modeInput.addEventListener('change', updateStartLink);
-    wordStartInput.addEventListener('change', updateStartLink);
-    wordEndInput.addEventListener('change', updateStartLink);
-    intervalInput.querySelectorAll("input[type='radio']").forEach(el => el.addEventListener('change', updateStartLink));
-    customWordInput.addEventListener('change', updateStartLink);
+    listInput.addEventListener('change', setupIntervalOptions);
+
+    wordStartInput.addEventListener('input', () => {
+        toggleIntervalOptions("interval");
+    });
+
+    wordEndInput.addEventListener('input', () => {
+        toggleIntervalOptions("interval");
+    });
+
+    customWordInput.addEventListener('change', () => {
+        toggleIntervalOptions("custom");
+    });
 
     startButton.addEventListener('click', start);
+    listButton.addEventListener('click', loadWordList);
 }
 
 main();

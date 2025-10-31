@@ -1,4 +1,5 @@
-window['list1'] =
+const data = {
+"List1":
 `abashed - (adj.) embarrassed. e.g. - She Is easily abashed and often turns red from embarrassment. Der. (v.) abash; (adj.) bashful. 
 abdomen - (n.) the part of the body between the chest and legs. e.g. - The pregnant woman's abdomen grew larger every month. Der. (adj.) abdominal. 
 abscond - (v..) to leave a place secretly and go into hiding with stolen money. e.g. - Jeff stole money from the company for which he was chief accountant. Later, he absconded with the funds and is currently thought to be living in Brazil. 
@@ -230,3 +231,15 @@ cumulative - (adj.) the total sum of separate parts. e.g. - The cumulative sum o
 cunning - (adj.) relating to the use of dishonesty and manipulation to achieve one's ambitions; sly; (syn.) sneaky. e.g. - Jeff doesn't really love Debra. He's just being cunning in order to get what he wants from her. Der. (n.) cunning; (adv.) cunningly. 
 custody - (n.) control or guardianship over a person by an individual in authority. e.g. - Anne was granted custody of the children in the divorce. They now live with her. Der. (adj.) custodial. 
 cut off your nose to spite your face - (id.) to hurt oneself by seeking revenge on others. e.g. - I know that you don't like your teacher, but telling her that she's stupid was -----. `
+}
+
+Object.keys(data).forEach(key => {
+    data[key] = data[key].trim().split('\n').map(line => {
+        const word = line.split(' - ')[0].trim();
+        const description = line.split(' - ').slice(1).join(' - ').trim().split('Der')[0].trim();
+        const regEx = new RegExp(word.split("(")[0].trim(), "ig");
+        const definition = description.split('e.g. - ')[0].trim();
+        const example = description.split('e.g. - ')[1]?.trim().replaceAll(regEx, '-----');
+        return {'word': word, 'definition': definition, 'example': example};
+    });
+});

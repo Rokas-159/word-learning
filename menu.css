@@ -2,7 +2,7 @@ main {
     margin: auto;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: 0.5fr 1fr 1fr 0.5fr;
+    grid-template-rows: 0.5fr 0.5fr 1fr 0.5fr;
     grid-template-areas: 
         "title title title title title"
         "wordlist mode mode manual manual"
@@ -10,7 +10,7 @@ main {
         "interval interval start fulllist github";
     gap: 10px;
     max-width: 800px;
-    aspect-ratio: 10 / 7;
+    aspect-ratio: 5 / 3;
 }
 
 main > div, main > a, main > .button {
