@@ -10,20 +10,20 @@
 <body>
     <main>
         <h2 class="title">English Words</h2>
-        <div class="wordlist">
+        <div class="wordlist tile">
             <select id="listInput"></select>
         </div>
-        <div class="mode">
+        <div class="mode tile">
             <select id="mode">
                 <option value="0">Definitions</option>
                 <option value="1">Examples</option>
                 <option value="2" selected="selected">Definitions & Examples</option>
             </select>
         </div>
-        <div class="manual">
+        <div class="manual tile">
             <h2>Instructions</h2>
         </div>
-        <div class="interval">
+        <div class="interval tile">
             <h2>Words learnt</h2>
 
             <div class="options" id="intervalOptionsInput">
@@ -46,9 +46,9 @@
                 </label>
             </div>
         </div>
-        <div class="start button" id="startButton"><h1>Go!</h1></div>
-        <div class="fulllist button" id="listButton"><h3>View the list</h3></div>
-        <a href="https://github.com/Rokas-159/word-learning" target="_blank" class="github"><h3>GitHub <img src="external-link.svg"></img></h3></a>
+        <button class="start button" id="startButton"><h1>Go!</h1></button>
+        <button class="fulllist button" id="listButton"><h3>View the list</h3></button>
+        <a href="https://github.com/Rokas-159/word-learning" target="_blank" class="github button"><h3>GitHub <img src="external-link.svg"></img></h3></a>
     </main>
     <script src="data.js"></script>
     <script src="menu.js"></script>

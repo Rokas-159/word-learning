@@ -70,7 +70,7 @@ function checkAnswer(e) {
         
         currentWordIndex++;
         if (currentWordIndex < shuffedWords.length) {
-            let def = data[list][shuffedWords[currentWordIndex]].definition;
+            let def = data[list][shuffedWords[currentWordIndex]-1].definition;
             if (mode == 0) {
                 def = def.split('e.g. - ')[0];
             }
@@ -80,7 +80,7 @@ function checkAnswer(e) {
             document.getElementById('output').innerText = def;
             document.getElementById('wordInput').value = '';
 
-            console.log(data[list][shuffedWords[currentWordIndex]].word);
+            console.log(data[list][shuffedWords[currentWordIndex]-1].word);
             
             state = 0;
         } else {
@@ -89,7 +89,14 @@ function checkAnswer(e) {
     }
 }
 
+function setupMainMenuLink() {
+    const mainMenuButton = document.getElementById("menuButton");
+    mainMenuButton.href = "index.html" + window.location.search;
+}
+
 function main() {
+    setupMainMenuLink();
+
     if (!urlParams.has("list")) {
         state = -1;
         document.getElementById("output").innerText = "No word list selected. Please go back to the menu and select one.";
@@ -104,7 +111,7 @@ function main() {
         return;
     }
 
-    shuffedWords = shuffledRange(0, data[list].length - 1);
+    shuffedWords = shuffledRange(1, data[list].length);
 
     if (urlParams.has("indices")) {
         shuffedWords = shuffle(urlParams.get("indices").split(","));

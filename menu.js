@@ -68,6 +68,17 @@ function setupCustomIndices() {
     });
 }
 
+function selectCustomWords(indices) {
+    customWordInput.querySelectorAll("option").forEach(option => {
+        option.selected = false;
+    });
+
+    indices.forEach(index => {
+        const option = customWordInput.querySelector("option[value='" + index + "']");
+        if (option) option.selected = true;
+    });
+}
+
 function setupIntervalOptions() {
     setupCustomIndices();
 
@@ -100,16 +111,9 @@ function setupIntervalOptions() {
         wordEndInput.value = indices[indices.length - 1];
     } else {
         toggleIntervalOptions("custom");
-
-        customWordInput.querySelectorAll("option").forEach(option => {
-            option.selected = false;
-        });
-
-        indices.forEach(index => {
-            const option = customWordInput.querySelector("option[value='" + index + "']");
-            if (option) option.selected = true;
-        })
     }
+
+    selectCustomWords(indices);
 }
 
 function setupListSelection() {
@@ -135,8 +139,8 @@ function start() {
 }
 
 function loadWordList() {
-    const list = listInput.value;
-    window.location.href = "list.html?list=" + list;
+    const params = generateParams();
+    window.location.href = "list.html" + params;
 }
 
 function main() {
@@ -156,6 +160,14 @@ function main() {
 
     wordEndInput.addEventListener('input', () => {
         toggleIntervalOptions("interval");
+    });
+
+    wordStartInput.addEventListener('change', () => {
+        selectCustomWords(range(wordStartInput.value, wordEndInput.value));
+    });
+
+    wordEndInput.addEventListener('change', () => {
+        selectCustomWords(range(wordStartInput.value, wordEndInput.value));
     });
 
     customWordInput.addEventListener('change', () => {
