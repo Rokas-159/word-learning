@@ -52,13 +52,13 @@ function checkAnswer(e) {
         state = 1;
         document.getElementById('button').innerText = 'Next';
         const userAnswer = document.getElementById('wordInput').value.trim().toLowerCase();
-        const correctAnswer = data[list][shuffedWords[currentWordIndex]].word.toLowerCase();
+        const correctAnswer = data[list][shuffedWords[currentWordIndex]-1].word.toLowerCase();
 
         if (userAnswer === correctAnswer) {
             document.getElementById('result').innerHTML = '<span style="color: #17A589;">Correct!</span>';
         } else {
             const partiallyOk = (userAnswer === correctAnswer.split('(')[0].trim());
-            document.getElementById('result').innerHTML = `<span style="color: ${partiallyOk ? '#17A589' : 'white'};">The correct word is: ` + data[list][shuffedWords[currentWordIndex]].word + '</span>';
+            document.getElementById('result').innerHTML = `<span style="color: ${partiallyOk ? '#17A589' : 'white'};">The correct word is: ` + data[list][shuffedWords[currentWordIndex]-1].word + '</span>';
             if (!partiallyOk) {
                 failed.push(shuffedWords[currentWordIndex]);
                 console.log("Failed words:", failed.join(','));
@@ -71,11 +71,11 @@ function checkAnswer(e) {
         currentWordIndex++;
         if (currentWordIndex < shuffedWords.length) {
             let def = data[list][shuffedWords[currentWordIndex]-1].definition;
-            if (mode == 0) {
-                def = def.split('e.g. - ')[0];
-            }
             if (mode == 1) {
-                def = def.split('e.g. - ')[1];
+                def = data[list][shuffedWords[currentWordIndex]-1].example;
+            }
+            if (mode == 2) {
+                def = def + ' e.g. - ' + data[list][shuffedWords[currentWordIndex]-1].example;
             }
             document.getElementById('output').innerText = def;
             document.getElementById('wordInput').value = '';
