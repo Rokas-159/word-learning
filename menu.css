@@ -9,8 +9,10 @@ main {
         "interval interval start manual manual"
         "interval interval start fulllist github";
     gap: 10px;
-    max-width: 800px;
+    max-width: 1000px;
+    max-height: calc(100vh - 40px);
     aspect-ratio: 5 / 3;
+    font-size: 20px;
 }
 
 div:not(.button) > h1, div:not(.button) > h2 {
@@ -74,4 +76,100 @@ div:not(.button) > h1, div:not(.button) > h2 {
 
 a {
     text-decoration: none;
+}
+
+select, ::picker(select) {
+    appearance: base-select;
+}
+
+select:not([multiple]) {
+    background-color: #E8F8F5;
+    color: black;
+    border: none;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 12px;
+    cursor: pointer;
+    box-sizing: border-box;
+    transition: 0.1s;
+}
+
+select:not([multiple]):hover {
+    background-color: #D1F2EB;
+}
+
+select:not([multiple])::picker-icon {
+    color: black;
+    transition: 0.4s rotate;
+}
+
+select:not([multiple]):open::picker-icon {
+    rotate: 180deg;
+}
+
+::picker(select) {
+    border: none;
+    background-color: white;
+    color: #031612;
+    border: none;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 0;
+    cursor: pointer;
+    box-sizing: border-box;
+    transition: 0.1s;
+    margin-top: 5px;
+}
+
+select:not([multiple]) option:first-of-type {
+    border-radius: 10px 10px 0 0;
+}
+
+select:not([multiple]) option:last-of-type {
+    border-radius: 0 0 10px 10px;
+}
+
+select:not([multiple]) option {
+    padding: 3px 10px;
+}
+
+select:not([multiple]) option:checked {
+    font-weight: bold;
+}
+
+select[multiple] {
+    background-color: #E8F8F5;
+    color: black;
+    border: 3px solid #117A65;
+    box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 0.6em;
+    font-size: 0.8rem;
+    scrollbar-color: lightgray transparent;
+}
+
+select[multiple] option {
+    padding: 1px 5px;
+}
+
+select[multiple] option:checked {
+    background-color: #A3E4D7;
+    color: black;
+    font-weight: bold;
+}
+
+input[type="radio"] {
+    appearance: none;
+    border: 2px solid #117A65;
+    width: 1.2em;
+    height: 1.2em;
+    border-radius: 1em;
+    background-color: white;
+    box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    cursor: pointer;
+}
+
+input[type="radio"]:checked {
+    background-color: #117A65;
+    box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.5), inset 0 0 0 2px white;
 }
