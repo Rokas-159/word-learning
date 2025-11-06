@@ -6,6 +6,7 @@ const wordEndInput = document.getElementById("wordEnd");
 const intervalInput = document.getElementById("intervalOptionsInput");
 const customWordInput = document.getElementById("customWords");
 const startButton = document.getElementById("startButton");
+const copyButton = document.getElementById("copyLinkButton");
 const listButton = document.getElementById("listButton");
 
 function range(a, b) {
@@ -138,6 +139,20 @@ function start() {
     window.location.href = "test.html" + params;
 }
 
+function copyConfig() {
+    const params = generateParams();
+    navigator.clipboard.writeText(window.location.href.split("?")[0] + params);
+    const copy = document.getElementById("copyText");
+    const copied = document.getElementById("copiedText");
+    copy.style.opacity = 0;
+    copied.style.opacity = 1;
+
+    setTimeout(() => {
+        copy.style.opacity = 1;
+        copied.style.opacity = 0;
+    }, 1000);
+}
+
 function loadWordList() {
     const params = generateParams();
     window.location.href = "list.html" + params;
@@ -175,7 +190,10 @@ function main() {
     });
 
     startButton.addEventListener('click', start);
+    copyButton.addEventListener('click', copyConfig);
     listButton.addEventListener('click', loadWordList);
+
+    document.getElementById("copiedText").style.opacity = 0;
 }
 
 main();

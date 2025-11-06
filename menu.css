@@ -7,7 +7,7 @@ main {
         "title title title title title"
         "wordlist mode mode manual manual"
         "interval interval start manual manual"
-        "interval interval start fulllist github";
+        "interval interval copy fulllist github";
     gap: 10px;
     max-width: 1000px;
     max-height: calc(100vh - 40px);
@@ -17,13 +17,14 @@ main {
 @media only screen and (max-width: 800px) {
     main {
         grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: 0.5fr 0.5fr 2fr 1fr 1fr;
+        grid-template-rows: 0.5fr 0.5fr 1fr 1fr 1fr 1fr;
         grid-template-areas: 
             "title title title"
             "wordlist mode mode"
             "interval interval start"
-            "manual manual fulllist"
-            "manual manual github";
+            "interval interval copy"
+            "fulllist manual manual"
+            "github manual manual";
         max-width: 600px;
         max-height: none;
     }
@@ -32,13 +33,14 @@ main {
 @media only screen and (max-width: 490px) {
     main {
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 0.5fr 0.5fr 0.5fr 2fr 0.5fr 0.5fr 2fr;
+        grid-template-rows: 0.5fr 0.5fr 0.5fr 2fr 0.5fr 0.5fr 0.5fr 2fr;
         grid-template-areas:
             "title title"
             "wordlist wordlist"
             "mode mode"
             "interval interval"
             "start start"
+            "copy copy"
             "fulllist github"
             "manual manual";
         max-width: 400px;
@@ -88,6 +90,14 @@ div:not(.button) > h1, div:not(.button) > h2 {
 
 .start {
     grid-area: start;
+}
+
+.copylink {
+    grid-area: copy;
+}
+
+.copylink #copiedText {
+    position: absolute;
 }
 
 .fulllist {
