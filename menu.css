@@ -11,8 +11,39 @@ main {
     gap: 10px;
     max-width: 1000px;
     max-height: calc(100vh - 40px);
-    aspect-ratio: 5 / 3;
     font-size: 20px;
+}
+
+@media only screen and (max-width: 800px) {
+    main {
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 0.5fr 0.5fr 2fr 1fr 1fr;
+        grid-template-areas: 
+            "title title title"
+            "wordlist mode mode"
+            "interval interval start"
+            "manual manual fulllist"
+            "manual manual github";
+        max-width: 600px;
+        max-height: none;
+    }
+}
+
+@media only screen and (max-width: 490px) {
+    main {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 0.5fr 0.5fr 0.5fr 2fr 0.5fr 0.5fr 2fr;
+        grid-template-areas:
+            "title title"
+            "wordlist wordlist"
+            "mode mode"
+            "interval interval"
+            "start start"
+            "fulllist github"
+            "manual manual";
+        max-width: 400px;
+        max-height: none;
+    }
 }
 
 div:not(.button) > h1, div:not(.button) > h2 {

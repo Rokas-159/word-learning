@@ -11,6 +11,12 @@ body {
     min-width: fit-content;
 }
 
+@media only screen and (max-width: 490px) {
+    body {
+        padding: 20px 5px;
+    }
+}
+
 button {
     font: inherit;
 }
