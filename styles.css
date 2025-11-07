@@ -11,7 +11,7 @@ body {
     min-width: fit-content;
 }
 
-@media only screen and (max-width: 490px) {
+@media only screen and (max-width: 530px) {
     body {
         padding: 20px 5px;
     }

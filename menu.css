@@ -2,7 +2,7 @@ main {
     margin: auto;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: 0.5fr 0.5fr 1fr 0.5fr;
+    grid-template-rows: auto 1fr 2fr 1fr;
     grid-template-areas: 
         "title title title title title"
         "wordlist mode mode manual manual"
@@ -17,7 +17,7 @@ main {
 @media only screen and (max-width: 800px) {
     main {
         grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: 0.5fr 0.5fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: auto 1fr repeat(2, 2fr 2fr);
         grid-template-areas: 
             "title title title"
             "wordlist mode mode"
@@ -30,10 +30,10 @@ main {
     }
 }
 
-@media only screen and (max-width: 490px) {
+@media only screen and (max-width: 530px) {
     main {
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 0.5fr 0.5fr 0.5fr 2fr 0.5fr 0.5fr 0.5fr 2fr;
+        grid-template-rows: 1fr 1fr 1fr auto 1fr 1fr 1fr auto;
         grid-template-areas:
             "title title"
             "wordlist wordlist"
@@ -70,6 +70,23 @@ div:not(.button) > h1, div:not(.button) > h2 {
 
 .manual {
     grid-area: manual;
+}
+
+.manual > div {
+    text-align: justify;
+    font-size: 0.85em;
+    text-indent: 1em;
+}
+
+.manual p {
+    margin: 0 0 0.3em 0;
+}
+
+.manual span.heading {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 0.5em 0;
+    display: inline-block;
 }
 
 .interval {
