@@ -5,35 +5,72 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>English</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="menu.css">
 </head>
 <body>
     <main>
-        <form class="wordBox" onsubmit="customRange(event)">
-            <p>Words learnt: </p>
-            
-            <input type="number" id="wordStart" placeholder="1" min="1" max="231" autocomplete="off">
-            -
-            <input type="number" id="wordEnd" placeholder="231" min="1" max="231" autocomplete="off">
-            &nbsp;
+        <h2 class="title">English Words</h2>
+        <div class="wordlist tile">
+            <select id="listInput"></select>
+        </div>
+        <div class="mode tile">
             <select id="mode">
                 <option value="0">Definitions</option>
                 <option value="1">Examples</option>
                 <option value="2" selected="selected">Definitions & Examples</option>
             </select>
-            &nbsp;
-
-            <button type="submit" id="customRangeButton">Go!</button>
-        </form>
-
-        <form class="mainForm" onsubmit="checkAnswer(event)" id="wordForm">
-            <p id="output"></p>
-            <div class="inputBox">
-                <input type="text" id="wordInput" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"><button id="button" type="submit">Check</button>
+        </div>
+        <div class="manual tile">
+            <h2>Instructions</h2>
+            <div>
+                <p>
+                    Use this tool to learn English words effectively.
+                </p>
+                <span class="heading">Configuration Link</span>
+                <p>
+                    Copying the configuration link saves selected configuration in your clipboard for later use.
+                </p>
+                <p>
+                    You can examine the link to understand how to create custom configurations by editing the URL.
+                </p>
+                <p>
+                    You can also save the configuration by copying the browser URL while in test mode.
+                </p>
+                <span class="heading">GitHub</span>
+                <p>
+                    You can clone the project from GitHub to use offline or contribute to its development.
+                </p>
             </div>
-            <p id="result"></p>
-        </form>
+        </div>
+        <div class="interval tile">
+            <h2>Words learnt</h2>
+
+            <div class="options" id="intervalOptionsInput">
+                <input type="radio" id="intervalWordsOption" name="interval" value="interval" checked="true">
+                <label for="intervalWordsOption">
+                    Interval
+                    <br>
+                    <input type="number" id="wordStart" placeholder="1" min="1" max="231" autocomplete="off">
+                    -
+                    <input type="number" id="wordEnd" placeholder="231" min="1" max="231" autocomplete="off">
+                </label>
+                <br>
+                <input type="radio" id="customWordsOption" name="interval" value="custom">
+                <label for="customWordsOption">
+                    Custom
+                    <br>
+                    <select id="customWords" multiple size="10">
+
+                    </select>
+                </label>
+            </div>
+        </div>
+        <button class="start button" id="startButton"><h1>Go!</h1></button>
+        <button class="copylink button" id="copyLinkButton"><h3 id="copyText">Copy Configuration Link</h3><h3 id="copiedText">Copied!</h3></button>
+        <button class="fulllist button" id="listButton"><h3>View the list</h3></button>
+        <a href="https://github.com/Rokas-159/word-learning" target="_blank" class="github button"><h3>GitHub <img src="external-link.svg"></img></h3></a>
     </main>
     <script src="data.js"></script>
-    <script src="script.js"></script>
+    <script src="menu.js"></script>
 </body>
 </html>

@@ -1,0 +1,233 @@
+main {
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: auto 1fr 2fr 1fr;
+    grid-template-areas: 
+        "title title title title title"
+        "wordlist mode mode manual manual"
+        "interval interval start manual manual"
+        "interval interval copy fulllist github";
+    gap: 10px;
+    max-width: 1000px;
+    max-height: calc(100vh - 40px);
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 800px) {
+    main {
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: auto 1fr repeat(2, 2fr 2fr);
+        grid-template-areas: 
+            "title title title"
+            "wordlist mode mode"
+            "interval interval start"
+            "interval interval copy"
+            "fulllist manual manual"
+            "github manual manual";
+        max-width: 600px;
+        max-height: none;
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    main {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr 1fr 1fr auto 1fr 1fr 1fr auto;
+        grid-template-areas:
+            "title title"
+            "wordlist wordlist"
+            "mode mode"
+            "interval interval"
+            "start start"
+            "copy copy"
+            "fulllist github"
+            "manual manual";
+        max-width: 400px;
+        max-height: none;
+    }
+}
+
+div:not(.button) > h1, div:not(.button) > h2 {
+    margin-top: 0;
+}
+
+.button h1, button h1, .button h2, button h2, .button h3, button h3 {
+    margin: 0;
+}
+
+.title {
+    grid-area: title;
+}
+
+.wordlist {
+    grid-area: wordlist;
+}
+
+.mode {
+    grid-area: mode;
+}
+
+.manual {
+    grid-area: manual;
+}
+
+.manual > div {
+    text-align: justify;
+    font-size: 0.85em;
+    text-indent: 1em;
+}
+
+.manual p {
+    margin: 0 0 0.3em 0;
+}
+
+.manual span.heading {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 0.5em 0;
+    display: inline-block;
+}
+
+.interval {
+    grid-area: interval;
+}
+
+.interval .options {
+    text-align: center;
+}
+
+.interval .options > br {
+    margin-bottom: 16px;
+}
+
+#customWords {
+    vertical-align: top;
+}
+
+.start {
+    grid-area: start;
+}
+
+.copylink {
+    grid-area: copy;
+}
+
+.copylink #copiedText {
+    position: absolute;
+}
+
+.fulllist {
+    grid-area: fulllist;
+}
+
+.github {
+    grid-area: github;
+}
+
+.github img {
+    display: inline;
+    height: 1em;
+    vertical-align: middle;
+    margin-bottom: 4px;
+}
+
+a {
+    text-decoration: none;
+}
+
+select, ::picker(select) {
+    appearance: base-select;
+}
+
+select:not([multiple]) {
+    background-color: #E8F8F5;
+    color: black;
+    border: none;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 12px;
+    cursor: pointer;
+    box-sizing: border-box;
+    transition: 0.1s;
+}
+
+select:not([multiple]):hover {
+    background-color: #D1F2EB;
+}
+
+select:not([multiple])::picker-icon {
+    color: black;
+    transition: 0.4s rotate;
+}
+
+select:not([multiple]):open::picker-icon {
+    rotate: 180deg;
+}
+
+::picker(select) {
+    border: none;
+    background-color: white;
+    color: #031612;
+    border: none;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 0;
+    cursor: pointer;
+    box-sizing: border-box;
+    transition: 0.1s;
+    margin-top: 5px;
+}
+
+select:not([multiple]) option:first-of-type {
+    border-radius: 10px 10px 0 0;
+}
+
+select:not([multiple]) option:last-of-type {
+    border-radius: 0 0 10px 10px;
+}
+
+select:not([multiple]) option {
+    padding: 3px 10px;
+}
+
+select:not([multiple]) option:checked {
+    font-weight: bold;
+}
+
+select[multiple] {
+    background-color: #E8F8F5;
+    color: black;
+    border: 3px solid #117A65;
+    box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 0.6em;
+    font-size: 0.8rem;
+    scrollbar-color: lightgray transparent;
+}
+
+select[multiple] option {
+    padding: 1px 5px;
+}
+
+select[multiple] option:checked {
+    background-color: #A3E4D7;
+    color: black;
+    font-weight: bold;
+}
+
+input[type="radio"] {
+    appearance: none;
+    border: 2px solid #117A65;
+    width: 1.2em;
+    height: 1.2em;
+    border-radius: 1em;
+    background-color: white;
+    box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    cursor: pointer;
+}
+
+input[type="radio"]:checked {
+    background-color: #117A65;
+    box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.5), inset 0 0 0 2px white;
+}

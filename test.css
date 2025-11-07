@@ -1,0 +1,35 @@
+.mainForm {
+    text-align: center;
+    margin-top: 30vh;
+    gap: 50px;
+}
+
+#output {
+    vertical-align: bottom;
+    min-height: 5.5em;
+}
+
+.inputBox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputBox {
+    gap: 8px;
+}
+
+.mainForm input,
+.mainForm button {
+    border-radius: 0.6em;
+    font-size: 1.2rem;
+    padding: 0.4em;
+    display: inline-block;
+    outline: none;
+}
+
+.mainForm input {
+    width: 10em;
+    border-color: #1ABC9C;
+}
