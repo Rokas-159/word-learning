@@ -74,7 +74,7 @@ div:not(.button) > h1, div:not(.button) > h2 {
 
 .manual > div {
     text-align: justify;
-    font-size: 0.85em;
+    font-size: 0.80em;
     text-indent: 1em;
 }
 
@@ -95,6 +95,7 @@ div:not(.button) > h1, div:not(.button) > h2 {
 
 .interval .options {
     text-align: center;
+    width: 100%;
 }
 
 .interval .options > br {
@@ -103,6 +104,7 @@ div:not(.button) > h1, div:not(.button) > h2 {
 
 #customWords {
     vertical-align: top;
+    min-width: 70%;
 }
 
 .start {

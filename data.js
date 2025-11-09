@@ -72,7 +72,7 @@ barrier - (n.) something that inhibits or prevents progress or movement; (syn.) 
 bashful - (adj.) shy or self-conscious. e.g. - Mary is so bashful that she often finds it difficult to make new friends. Der. (v.) abash. 
 battle - (n.) a fight between two opposing armies; (syn.) combat. e.g. - Many soldiers died from gunshot wounds inflicted in the battle. Der. (v.) battle. 
 be a basket case - (id.) to be in very bad physical or mental condition, esp. from nervousness or exhaustion. e.g. - Mary ----- about her exams. 
-be caught red-handed - (id.) to be discovered during the commission of criminal activities~ e.g. - He ----- as he attempted to put the stolen merchandise in his pocket. 
+be caught red-handed - (id.) to be discovered during the commission of criminal activities. e.g. - He ----- as he attempted to put the stolen merchandise in his pocket. 
 be in ruins - (id.) to be totally destroyed. e.g. - The town ----- after the storm. 
 be of strong moral fibre - (id.) to be of good moral character e.g. - Dylan would never lie or steal. He -----. 
 beating about the bush - (id.) to avoid talking about a certain topic e.g. - I tried to get an answer out of her, but she kept on beating about the bush. 
@@ -96,7 +96,7 @@ blue - (id.) relating to extreme sadness or depression. e.g. - Julie felt blue a
 bluff - (n.) the steep side of a mountain: or cliff e.g. - An excellent view of the city can be seen when looking down from the nearby bluff. 
 blunder - (n.) error, mistake e.g. - The accident resulted from his blunder in failing to signal a turn. 
 blunt - (adj.) not sharp, dull. e.g. - The victim was struck with a blunt object, such as a flat rock or brick. Der. (adv.) bluntly 
-blurry - (adj.) unclear or lacking in focus. e.g. - My vision is always blurry when I'm not wearing glasses. Der (n.) blur, blurriness: (v) blur: (adj.) blurred. 1»1) blurr'~ 
+blurry - (adj.) unclear or lacking in focus. e.g. - My vision is always blurry when I'm not wearing glasses. Der. (n.) blur, blurriness: (v) blur: (adj.) blurred. 1»1) blurr'~ 
 blurt - (v.) to say something suddenly and unexpectedly. e.g. - He blurted out the location of surprise party. 
 bogus - (adj.) not authentic: fake; (syn.) phony. e.g. - The bogus painting of the "Mona Lisa" is often mistaken for the genuine one. 
 bolster - (v.) to raise or increase by supporting the cause or interest of something; e.g. - Going to Disneyland bolstered the spirits of the terminally-ill children.
@@ -128,7 +128,7 @@ candour - (n.) honesty; frankness. e.g. - If I can speak with candour, I must te
 capitulate - (v.) to give up or surrender in battle. e.g. - The army capitulated after the enemy's heavy attack. Der. (n.) capitulation. 
 capsize - (v.) to overturn a boat in a waterway. e.g. - The passenger fell overboard into the water when the boat capsized. 
 carcass - (n.) the body of a dead animal. e.g. - The carcass of a dead dog, which had been hit by a car, was lying in the centre of the road. 
-carnivorous - (adj.) relating to animals that consume meat. e.g. - Animals such as dogs are carnivorous. They do not eat grass, but rather eat meat. Der (n.) carnivore. 
+carnivorous - (adj.) relating to animals that consume meat. e.g. - Animals such as dogs are carnivorous. They do not eat grass, but rather eat meat. Der. (n.) carnivore. 
 cask - (n.) a round wooden container used for storing alcoholic beverages; barrel. e.g. - Whisky and beer are usually stored in large casks when they are manufactured. 
 cast aspersions on sbdy's character - (id.) to damage someone's reputation through rumours or gossip. e.g. - I would never -----. In fact, I know that he is a very nice person. 
 catch - (v.)(met.) to hear or to understand. e.g. - Did you catch what he just said? 
@@ -230,13 +230,142 @@ cumbersome - (adj.) troublesome; difficult; heavy. e.g. - Jennifer's journey was
 cumulative - (adj.) the total sum of separate parts. e.g. - The cumulative sum of 20 and 20 is 40. Der. (v.) cumulate; (adv.) cumulatively. 
 cunning - (adj.) relating to the use of dishonesty and manipulation to achieve one's ambitions; sly; (syn.) sneaky. e.g. - Jeff doesn't really love Debra. He's just being cunning in order to get what he wants from her. Der. (n.) cunning; (adv.) cunningly. 
 custody - (n.) control or guardianship over a person by an individual in authority. e.g. - Anne was granted custody of the children in the divorce. They now live with her. Der. (adj.) custodial. 
-cut off your nose to spite your face - (id.) to hurt oneself by seeking revenge on others. e.g. - I know that you don't like your teacher, but telling her that she's stupid was -----. `
+cut off your nose to spite your face - (id.) to hurt oneself by seeking revenge on others. e.g. - I know that you don't like your teacher, but telling her that she's stupid was -----. `,
+"List2":
+`damp - (adj.) slightly wet or moist. e.g. - His forehead was damp because he had been sweating. He wiped it dry with a handkerchief. Der. (n.) damp; (v.) dampen. 
+dapper - (adj.) very well dressed. e.g. - He looked dapper in his new suit. 
+dash - (n.) a small portion of something added to something else. e.g. - A dash of salt should be added to the food. 
+debris - (n.) the remaining broken pieces of something. e.g. - There was a lot of debris on the road after the accident, including fragments of broken glass and pieces of metal. 
+deceased - (adj.) relating to a person who has died. e.g. - My father is deceased. He died ten years ago. Der. (n.) decedent. 
+deciduous - (adj.) relating to trees which lose their leaves seasonally. e.g. - Deciduous trees in Vermont turn to beautiful shades of red, orange, and yellow before losing their leaves every fall. 
+decorous - (adj.) correct in behaviour; in good taste. e.g. - The fireman behaved in a most decorous way during the blaze and cannot be blamed for the deaths that occurred. Der. (n.) decorum; (adv.) decorously. 
+defect - (n.) a lack of proper function which prevents use of a machine. e.g. - The stereo had a defect in its sound system and would not play the CD properly. Der. (adj.) defective; (adv.) defectively. 
+defile - (v.) to cause to become unclean or unchaste. e.g. - The environment is being defiled with all types of pollution and litter. Der. (n.) defilement; (adj.) defiled. 
+deft - (adj.) possessing great skill or ability. e.g. - Paula is quite deft at knitting. She made this sweater in only twelve hours. Der. (adv.) deftly. 
+defunct - (adj.) no longer existing or operating; no longer active. e.g. - Due to a lack of interest by its members, the club is now defunct. 
+defy - (v.) to accomplish something that is considered impossible or improper. e.g. - He -----ed his parents by getting married when he was only sixteen, although they had forbidden it. Der. (n.) defiance; (adj.) defiant; (adv.) defiantly. 
+deliberation - (n.) careful consideration of a topic, including reasons for and against. e.g. - After careful deliberation of all the advantages and disadvantages, she finally decided to attend college. Der. (v.) deliberate; (adj.) deliberate. 
+deluge - (n.) a sudden downpour of rain or water. e.g. - A sudden deluge of rain caused flooding in the city. Der. (v.) deluge. 
+demeanour - (n.) behaviour, manner, or temperament. e.g. - This job requires a person with a pleasant demeanour because you will constantly be working with the public. 
+demented - (adj.) crazy; insane. e.g. - Why are you acting so demented? Have you gone crazy or something? Der. (n.) dementedness; (adv.) dementedly. 
+demise - (n.) destruction or downfall. e.g. - Excessive gambling led to his demise. He lost all of his possessions as a result of his uncontrollable habit. 
+demoralise - (v.) to discourage; to weaken the spirit of. e.g. - Carmen was demoralised when she failed her driving test the fourth time. 
+denial - (n.) statement that an accusation is false. e.g. - The Prime Minister issued a full denial of any involvement in the scandal, saying that any rumours were untrue. Der. (v.) deny. 
+denomination - (n.) size of a value of paper money. e.g. - The bank robbers stole $10,000 in $100 and $50 denominations. Der. (v.) denominate. 
+denounce - (v.) to show to be false, wrong, or evil. e.g. - He denounced smoking, saying that it was a disgusting and dangerous habit. Der. (n.) denouncement. 
+dense - (adj.) thick or heavy. e.g. - A dense snowfall caused the highway department to close all the roads. Der. (adv.) densely. 
+depict - (v.) to show in the form of a picture or photograph. e.g. - This photograph depicts my mother when she was a child. Der. (n.) depiction. 
+deplore - (v.) to consider as deserving of contempt or disapproval. e.g. - The teacher deplored the students who hadn't done their homework and expressed her disapproval. Der. (adj.) deplorable; (adv.) deplorably. 
+deposit - (v.) to place money in a bank account. e.g. - I am trying to save money by depositing $200 into my bank account every month. Der. (n.) deposit. 
+deranged - (adj.) mentally disturbed; insane; crazy. e.g. - Deranged individuals, such as psychopaths or sociopaths, are in need of psychological treatment. Der. (v.) derange. 
+desolate - (adj.) filled with sorrow or despair as a result of loneliness; (syn.) forlorn. e.g. - Thomas felt desolate when he moved to Manchester. He didn't have any friends and was often lonely. Der. (n.) desolation; (adj.) desolating. 
+despair - (v.) to feel hopelessness or extreme disappointment; (syn.) despondency. e.g. - The businessman despaired that he would never be successful when his second business failed. Der. (n.) despair. 
+desperation - (n.) hopelessness; despair. e.g. - The poor woman hadn't eaten in days and in desperation, she stole food from the supermarket. Der. (adj.) desperate; (adv.) desperately. 
+despicable - (adj.) deserving of hate; (syn.) odious. e.g. - The crimes that he committed are despicable, and he has many enemies. Der. (adv.) despicably. 
+despondency - (n.) despair; depression. e.g. - In his despondency, he contemplated whether his life had meaning. Der. (adj.) despondent. Der. (adv.) despondently. 
+destine - (v.) to determine the outcome of something in advance, esp. by fate. e.g. - He is a very smart boy and is destined to have a bright future. Der. (n.) destiny; (adj.) destined. 
+detention - (n.) the process of delaying or holding back, esp. for questioning or punishment. e.g. - He was held in detention after school as punishment for failing to do his homework. Der. (v.) detain. 
+deterrent - (n.) the prevention or discouragement of illegal or improper behaviour. e.g. - The death penalty is considered to be a deterrent to the commission of the crime of murder, although statistics show that the murder rate increases every year. Der. (v.) deter. 
+detract (from) - (v.) to make less in terms of value or importance. e.g. - The crack in the vase detracted from its value. 
+devoted - (adj.) strongly committed to a purpose or cause. e.g. - He is a devoted doctor and often works without pay. Der. (n.) devotion; (v.) devote. 
+devour - (v.) to eat or use up in great quantity. e.g. - The hungry dog devoured its food. 
+dig up - (id.) to discover as a result of searching extensively. e.g. - Joe searched through his closet, trying to dig up something to wear. 
+diligent - (adj.) relating to the exercise of caution and determination. e.g. - You must be diligent when driving on interstate highways in order to avoid accidents. Der. (n.) diligence; (adv.) diligently. 
+dilute - (v.) to add water to a mixture. e.g. - The orange juice concentrate should be diluted and mixed before serving. 
+dingy - (adj.) dirty; unclean. e.g. - The hotel was so dingy that it looked like it hadn't been cleaned in months. 
+disclose - (v.) to uncover or cause to become known. e.g. - The bank robber finally disclosed the location of the hidden money after undergoing extensive questioning. Der. (n.) disclosure. 
+disconcerted - (adj.) very discouraged; disillusioned. e.g. - My cousin was disconcerted when he realised that his new job wasn't what he wanted after all. Der. (v.) disconcert. 
+discontented - (adj.) unhappy; displeased. e.g. - Many students become discontented with college and decide to drop out. Der. (n.) discontentment, discontent. 
+discrepancy - (n.) disagreement or inconsistency between or among various things. e.g. - There was a discrepancy between the two different versions of the story. Der. (adj.) discrepant; (adv.) discrepantly. 
+disjointed - (adj.) lacking in sequence, order, or organization. e.g. - The professor's explanation was totally disjointed. As a result, none of the students understood him. Der. (v.) disjoint. 
+dismal - (adj.) being of particularly bad quality; disastrous; (syn.) wretched. e.g. - The weather is so dismal today with all this sleet and rain. Der. (adv.) dismally. 
+dismantle - (v.) to take a machine apart into pieces; disassemble. e.g. - She dismantled her furniture before moving into her new house since the individual pieces of wood would be easier to carry. 
+disparity - (n.) disagreement; (syn.) incongruity. e.g. - There seems to be some disparity between the story he told and the facts. 
+dispatch - (v.) to send, esp. quickly. e.g. - The letter was dispatched to you by courier on Thursday. Der. (n.) dispatch. 
+dispense - (v.) to give out in shares or measured parts. e.g. - My parents always dispense advice without me asking for it. 
+disposition - (n.) mood or character. e.g. - His disposition was great today. I have never seen him so cheerful. Der. (v.) dispose. 
+dissension - (n.) disagreement; conflict; controversy. e.g. - There is some dissension about what happened. Everyone seems to have a different version of the events. Der. (v.) dissent. 
+dissolute - (adj.) indulgent. e.g. - If you have dissolute eating habits, you will become fat. Der. (n.) dissolution; (adv.) dissolutely. 
+divergence - (n.) separation; movement apart; disunion. e.g. - Their divergence in personal opinions causes many arguments. Der. (v.) diverge; (adj.) divergent. 
+diversification - (n.) the action of providing variety. e.g. - This university has a great diversification of subjects, with programs ranging from animal science to marketing. Der. (v.) diversify; (adj.) diversified. 
+diversion - (n.) a change of course in direction or activity. e.g. - There is a traffic diversion in the center of town because the road is being repaired. Der. (v.) divert; (adj.) diverted. 
+domain - (n.) territory. e.g. - Don't enter this room. It is my private domain. 
+domestic - (adj.) relating to or coming from a specific country: e.g. - Many domestic wines are produced in Spain. Der. (n.) domesticity; (v.) domesticate; (adj.) domesticated. produced in Spain. Der. (n.) domesticity; (v.) domesticate; (adJ.) domesticated. 
+domineering - (adj.) controlling or influencing excessively. e.g. - She is a domineering woman and is always telling her husband what to do. Der. (n.) dom1nat1on; (v.) domineer; (adv.) domineeringly. 
+downfall - (n.) a situation which results in a catastrophe. e.g. - His downfall came from gambling. In fact, he lost the family fortune. 
+dregs - (n.) a substance that remains after a liquid has been removed from a container. e.g. - He poured the beer into a glass, leaving only the dregs at the bottom of the bottle. 
+drench - (v.) to become full or covered with water or moisture; (syn.) soak. e.g. - Marco got caught in the rain without an umbrella. Der. (adj.) drenched. 
+drive - (n.) no motivation or impulse. e.g. - John is one of the laziest people I know. He has no drive. Der. (v.) drive; (adj.) driven. 
+drive a hard bargain - (id.) to be difficult to negotiate with. e.g. - He's not going to change his mind. He -----.
+drop a hint - (id.) to give someone subtle ideas about something in order to express one's likes or dislikes. e.g. - He ----- that he would like a new tie for his birthday. 
+drop in - (id.) to visit someone's home without having arranged a specific time. e.g. - Drop in and see me sometime! 
+dubious - (adj.) doubtful in quality. e.g. - He told us a dubious story about a series of events that he claimed had caused his delay. Der. (n.) dubiety, dubiousness; (adv.) dubiously. 
+duplication - (n.) the action of making copies of an object. e.g. - The teacher realised that the student had copied his homework from his friend since there was some duplication of mistakes that were made. Der. (v.) duplicate; (adj.) duplicated. mistakes that were made. Der. in the (v.) duplicate; (adJ.) duplicated. 
+duplicitous - (adj.) relating to living a deceptive or double life. e.g. - The duplicitous man had two wives, neither of whom knew of the other's existence. Der. (adv.) duplicitously. 
+dwindle - (v.) to decrease in size or amount. e.g. - The size of the class has dwindled from twenty-five students to five. Der. (adj.) dwindling. 
+dysfunction - (n.) failure to function property. e.g. - The dysfunction in their relationship caused the couple to file for divorce. Der. (adj.) dysfunctional. 
+earnest - (adj.) relating to sincerity in character. e.g. - If you are earnest when speaking about your problem, you will certainly receive support and sympathy. (n.) earnestness; (adv.) earnestly. 
+eerie - (adj.) frightening; scary. e.g. - Why do you watch those eerie films? You know you always feel afraid afterwards. Der. (adv.) eerily. 
+effigy - (n.) a monument or memorial shaped in the likeness of a particular individual. e.g. - An effigy of a soldier can be found in the centre of many villages. 
+elaborate - (adj.) developed; containing many details. e.g. - He told such an elaborate story that it was impossible to remember all the details. Der. (n.) elaboration; (v.) elaborate; (adv.) elaborately. 
+elated - (adj.) very pleased or happy; delighted. e.g. - She was elated when her baby was born. It was the happiest day of her life. Der. (n.) elation; (v.) elate. 
+elements - (n.) changes in the weather. e.g. - You must dress yourself warmly in the winter to protect yourself against the elements. 
+elicit - (v.) to bring out; evoke. e.g. - The teacher gave the students many clues in order to elicit the correct answer. Der. (n.) elicitation. 
+elite - (adj.) relating to a limited group; (syn.) exclusive. e.g. - The Beverly Hills Hotel is used only by an elite group of people, including famous movie stars. 
+elusive - (adj.) impossible to be accomplished or maintained. e.g. - Her dream of becoming a professional ballet dancer has proved to be elusive. She was rejected at the audition and is now working in a department store. Der. (n.) elusion; (n.) elusiveness; (v.) elude; (adv.) elusively. 
+ember - (n.) a small glowing fragment which remains when a fire is being extinguished. e.g. - Be careful when removing embers from your fireplace. They may still be burning and should not be thrown on paper garbage. 
+embezzle - (v.) to use one's own position to steal company money or property for personal use. e.g. - The company's accountant had been -----ing money for years by transferring it from the company's bank to his own personal account. Der. (n.) embezzlement; (adj.) embezzled. 
+embroil - (v.) to cause to become involved in a conflict. e.g. - She became embroiled in the argument by telling a different version of events. 
+eminent - (adj.) showing superiority or high achievement in one's profession. e.g. - The professor was eminent in the field of micro-biology and had written several well-known books on the subject.
+emission - (n.) to give off or send out light, sound, or smell. e.g. - The emission of poisonous gases into the atmosphere is illegal. Der. (v.) emit. 
+emulate - (v.) to imitate or equal in quality. e.g. - Your brother Is a perfect child. You should try to emulate him. Der. (n.) emulation; (adj.) emulate. 
+encompass - (v.) to involve or include. (syn.) encompass. e.g. - Business Studies encompass the subjects of marketing and economics. 
+encounter - (v.) to meet or come across. e.g. - I encountered Jane in the shopping mall, although we hadn't arranged to meet. Der. (n.) encounter. 
+endeavour - (v.) to attempt with difficulty. e.g. - The doctor will endeavour to see you this afternoon, although his schedule is quite full. Der. (n.) endeavour. 
+endorse - (v.) to openly express approval or support; (syn.) back. e.g. - The budget reductions that the manager proposed were not endorsed by the company. Der. (n.) endorsement; (adj.) endorsed. 
+endowment - (n.) grant or contribution of money for support of an activity. e.g. - The millionaire contributed a substantial endowment towards the building of the new hospital. Der. (v.) endow; (adj.) endowed. 
+enervating - (adj.) exhausting. e.g. - Running a marathon is an enervating experience and requires several days of rest afterwards. Der. (n.) enervate. 
+engulf - (v.) to be consumed totally by fire. e.g. - The fire department could not save the building since it was already engulfed in flames when they arrived. 
+enhance - (v.) to make something greater or more beautiful. e.g. - Some people have plastic surgery in order to enhance their appearance. Der. (n.) enhancement; (adj.) enhanced. 
+enmity - (n.) hatred; (syn.) contempt. e.g. - They hardly parted as friends. In fact, I'd say she feels enmity towards him. 
+ensign - (n.) a flag which indicates nationality; (syn.) banner. e.g. - The ensign of Great Britain is red, white, and blue. 
+entail - (v.) to involve or include. e.g. - Sarah's new job as manager entails many responsibilities. 
+enterprise - (n.) a business organization established for a particular purpose or activity. e.g. - Banks and insurance companies are business enterprises. Der. (adj.) enterprising. 
+enthral - (v.) to totally attract the attention of someone; to charm. e.g. - She was totally enthralled with the charm of the Canary Islands and would like to go there again next summer. Der. (adj.) enthralling; (n.) enthrallment. 
+entice - (v.) to attract by persuasion or influence. e.g. - The advertisement in the store window enticed him to go inside. Der. (n.) enticement; (adj.) enticing. 
+entity - (n.) a business or enterprise. e.g. - A partnership is one type of business entity. 
+entreat - (v.) to beg; (syn.) beseech; implore. e.g. - The organization entreated the public to give donations to charity. Der. (n.) entreaty. 
+equivocation - (n.) the action of speaking in a way that is likely to cause confusion or misunderstanding. e.g. - The lawyer spoke with equivocation, saying that the product was not dangerous, nor was it safe. Der. (v.) equivocate; (adj.) equivocal; (adv.) equivocally; (ant.) unequivocal. 
+era - (n.) a period in history. e.g. - The Middle Ages were a particular era in history. 
+erratic - (adj.) unpredictable; inconsistent. e.g. - Her moods are so erratic. You never know if she'll be happy or upset. Der. (adv.) erratically. 
+escort - (v.) to go along with; (syn.) accompany. e.g. - Rachel's father escorted her on her first date. She was so embarrassed to be seen with him. Der. (n.) escort. 
+esteem - (n.) value or appreciation. e.g. - You are totally lacking in self-esteem. You should really think more highly of yourself. Der. (v.) esteem. 
+estuary - (n.) the mouth of a river or other waterway. e.g. - The River Thames flows to its estuary in Essex. 
+eternal - (adj.) lasting forever. e.g. - Guess what? My boyfriend declared his eternal love for me last night. He said he'd love me forever. Der. (n.) eternity; (adv.) eternally. 
+exacerbate - (v.) to make worse or more severe. e.g. - He exacerbated the fire by throwing petrol on it. Der. (n.) exacerbation. 
+exaggerate - (v.) to overstate in size or amount. e.g. - The fisherman exaggerated by saying that he had caught a twelve pound fish when, in fact, it weighed only six pounds Der. (n) exaggeration; (adj.) exaggerated; (adv.) exaggeratedly. • • • 
+exalt - (v.) to give praise and glory. e.g. - The soldier was exalted for the bravery he displayed in battle.
+exasperation - (n.) a state of extreme irritation or annoyance. e.g. - He felt exasperation when the building collapsed while he was just finishing the repairs. Der. (v.) exasperate; (adj.) exasperated, exasperating; (adv.) exasperatingly.
+exclusive - (adj.) capable of use or possession only by a limited group. e.g. - The news report was broadcast only by one channel. Der. (n.) exclusivity; (v.) exclude; (adj.) exclusive. exclusively - (adv.)
+exertion - (n.) excessive physical activity. e.g. - Much exertion was required to climb the mountain. Afterwards, the climbers were exhausted. Der. (v.) exert; (adj.) exerting.
+exhale - (v.) to expel air out by breathing. e.g. - He exhaled the cigarette smoke by breathing it out of his nose and mouth. Der. (n.) exhalation.
+exhaust - (n.) the expenditure of gas from a machine. e.g. - The exhaust from automobiles has caused environmental problems in all major European cities.
+exile - (v.) to expel or force to leave, esp. one's country of origin. e.g. - She was exiled from government office due to her political viewpoints. Der. (n.) exile.
+exonerate - (v.) to clear from accusation or responsibility. e.g. - A finding of "not guilty" exonerates a suspect from all responsibility for a crime. Der. (n.) exoneration.
+exorbitant - (adj.) excessive in quantity or price; (syn.) extortionate. e.g. - You paid $5 for a candy bar. What an exorbitant price. Der. (n.) exorbitance; (adv.) exorbitantly.
+expel - (v.) to force to leave school, usually for misbehaviour. e.g. - He was expelled from high school for starting a fire in the classroom. Der. (n.) expulsion; (adj.) expelled.
+exploit - (v.) to use or manipulate another person for one's own purposes. e.g. - Don't let him exploit you. He's only using you for money and a place to stay. Der. (n.) exploitation.
+extenuating - (adj.) relating to lessening the seriousness of a charge; mitigating. e.g. - The use of self-defence is an extenuating circumstance against the charge of murder. Der. (v.) extenuate.
+extermination - (n.) the action of killing insects or rodents. e.g. - After discovering several mice in our kitchen, it was necessary to call a company into our home for extermination. Der. (v.) exterminate.
+extortionate - (adj.) excessively expensive; (syn.) exorbitant. e.g. - He paid the extortionate price of £5000 for a pair of tennis shoes. Der. (adv.) extortionately.
+extract - (v.) to remove. e.g. - The information you need can be extracted from this book. Der. (n.) extract, extraction; (adj.) extracted.
+extravagant - (adj.) unnecessarily high in price or expense. e.g. - Giving your girlfriend a new car for her birthday was too extravagant. You should have given her a much cheaper present. Der. (n.) extravagance.`
 }
 
 Object.keys(data).forEach(key => {
     data[key] = data[key].trim().split('\n').map(line => {
         const word = line.split(' - ')[0].trim();
-        const description = line.split(' - ').slice(1).join(' - ').trim().split('Der')[0].trim();
+        const description = line.split(' - ').slice(1).join(' - ').trim().split('Der.')[0].trim();
         const regEx = new RegExp(word.split("(")[0].trim(), "ig");
         const definition = description.split('e.g. - ')[0].trim();
         const example = description.split('e.g. - ')[1]?.trim().replaceAll(regEx, '-----');
