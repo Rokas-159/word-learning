@@ -295,7 +295,7 @@ domineering - (adj.) controlling or influencing excessively. e.g. - She is a dom
 downfall - (n.) a situation which results in a catastrophe. e.g. - His downfall came from gambling. In fact, he lost the family fortune. 
 dregs - (n.) a substance that remains after a liquid has been removed from a container. e.g. - He poured the beer into a glass, leaving only the dregs at the bottom of the bottle. 
 drench - (v.) to become full or covered with water or moisture; (syn.) soak. e.g. - Marco got caught in the rain without an umbrella. Der. (adj.) drenched. 
-drive - (n.) no motivation or impulse. e.g. - John is one of the laziest people I know. He has no drive. Der. (v.) drive; (adj.) driven. 
+drive - (n.) motivation or impulse. e.g. - John is one of the laziest people I know. He has no drive. Der. (v.) drive; (adj.) driven. 
 drive a hard bargain - (id.) to be difficult to negotiate with. e.g. - He's not going to change his mind. He -----.
 drop a hint - (id.) to give someone subtle ideas about something in order to express one's likes or dislikes. e.g. - He ----- that he would like a new tie for his birthday. 
 drop in - (id.) to visit someone's home without having arranged a specific time. e.g. - Drop in and see me sometime! 
