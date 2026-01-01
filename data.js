@@ -319,7 +319,7 @@ embroil - (v.) to cause to become involved in a conflict. e.g. - She became embr
 eminent - (adj.) showing superiority or high achievement in one's profession. e.g. - The professor was eminent in the field of micro-biology and had written several well-known books on the subject.
 emission - (n.) to give off or send out light, sound, or smell. e.g. - The emission of poisonous gases into the atmosphere is illegal. Der. (v.) emit. 
 emulate - (v.) to imitate or equal in quality. e.g. - Your brother Is a perfect child. You should try to emulate him. Der. (n.) emulation; (adj.) emulate. 
-encompass - (v.) to involve or include. (syn.) encompass. e.g. - Business Studies encompass the subjects of marketing and economics. 
+encompass - (v.) to involve or include (the longer one). e.g. - Business Studies encompass the subjects of marketing and economics. 
 encounter - (v.) to meet or come across. e.g. - I encountered Jane in the shopping mall, although we hadn't arranged to meet. Der. (n.) encounter. 
 endeavour - (v.) to attempt with difficulty. e.g. - The doctor will endeavour to see you this afternoon, although his schedule is quite full. Der. (n.) endeavour. 
 endorse - (v.) to openly express approval or support; (syn.) back. e.g. - The budget reductions that the manager proposed were not endorsed by the company. Der. (n.) endorsement; (adj.) endorsed. 
@@ -329,7 +329,7 @@ engulf - (v.) to be consumed totally by fire. e.g. - The fire department could n
 enhance - (v.) to make something greater or more beautiful. e.g. - Some people have plastic surgery in order to enhance their appearance. Der. (n.) enhancement; (adj.) enhanced. 
 enmity - (n.) hatred; (syn.) contempt. e.g. - They hardly parted as friends. In fact, I'd say she feels enmity towards him. 
 ensign - (n.) a flag which indicates nationality; (syn.) banner. e.g. - The ensign of Great Britain is red, white, and blue. 
-entail - (v.) to involve or include. e.g. - Sarah's new job as manager entails many responsibilities. 
+entail - (v.) to involve or include (the shorter one). e.g. - Sarah's new job as manager entails many responsibilities. 
 enterprise - (n.) a business organization established for a particular purpose or activity. e.g. - Banks and insurance companies are business enterprises. Der. (adj.) enterprising. 
 enthral - (v.) to totally attract the attention of someone; to charm. e.g. - She was totally enthralled with the charm of the Canary Islands and would like to go there again next summer. Der. (adj.) enthralling; (n.) enthrallment. 
 entice - (v.) to attract by persuasion or influence. e.g. - The advertisement in the store window enticed him to go inside. Der. (n.) enticement; (adj.) enticing. 
