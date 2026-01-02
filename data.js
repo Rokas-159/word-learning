@@ -290,21 +290,21 @@ divergence - (n.) separation; movement apart; disunion. e.g. - Their divergence 
 diversification - (n.) the action of providing variety. e.g. - This university has a great diversification of subjects, with programs ranging from animal science to marketing. Der. (v.) diversify; (adj.) diversified. 
 diversion - (n.) a change of course in direction or activity. e.g. - There is a traffic diversion in the center of town because the road is being repaired. Der. (v.) divert; (adj.) diverted. 
 domain - (n.) territory. e.g. - Don't enter this room. It is my private domain. 
-domestic - (adj.) relating to or coming from a specific country: e.g. - Many domestic wines are produced in Spain. Der. (n.) domesticity; (v.) domesticate; (adj.) domesticated. produced in Spain. Der. (n.) domesticity; (v.) domesticate; (adJ.) domesticated. 
+domestic - (adj.) relating to or coming from a specific country: e.g. - Many domestic wines are produced in Spain. Der. (n.) domesticity; (v.) domesticate; (adj.) domesticated. produced in Spain. Der. (n.) domesticity; (v.) domesticate; (adj.) domesticated. 
 domineering - (adj.) controlling or influencing excessively. e.g. - She is a domineering woman and is always telling her husband what to do. Der. (n.) dom1nat1on; (v.) domineer; (adv.) domineeringly. 
 downfall - (n.) a situation which results in a catastrophe. e.g. - His downfall came from gambling. In fact, he lost the family fortune. 
 dregs - (n.) a substance that remains after a liquid has been removed from a container. e.g. - He poured the beer into a glass, leaving only the dregs at the bottom of the bottle. 
-drench - (v.) to become full or covered with water or moisture; (syn.) soak. e.g. - Marco got caught in the rain without an umbrella. Der. (adj.) drenched. 
-drive - (n.) motivation or impulse. e.g. - John is one of the laziest people I know. He has no drive. Der. (v.) drive; (adj.) driven. 
+drench - (v.) to become full or covered with water or moisture; (syn.) soak. e.g. - Marco got drenched when he was caught in the rain without an umbrella. Der. (adj.) drenched. 
+drive - (n.) motivation or impulse. e.g. - John is one of the laziest people I know. He has absolutely no drive. Der. (v.) drive; (adj.) driven. 
 drive a hard bargain - (id.) to be difficult to negotiate with. e.g. - He's not going to change his mind. He -----.
 drop a hint - (id.) to give someone subtle ideas about something in order to express one's likes or dislikes. e.g. - He ----- that he would like a new tie for his birthday. 
 drop in - (id.) to visit someone's home without having arranged a specific time. e.g. - Drop in and see me sometime! 
-dubious - (adj.) doubtful in quality. e.g. - He told us a dubious story about a series of events that he claimed had caused his delay. Der. (n.) dubiety, dubiousness; (adv.) dubiously. 
-duplication - (n.) the action of making copies of an object. e.g. - The teacher realised that the student had copied his homework from his friend since there was some duplication of mistakes that were made. Der. (v.) duplicate; (adj.) duplicated. mistakes that were made. Der. in the (v.) duplicate; (adJ.) duplicated. 
+dubious - (adj.) doubtful in quality. e.g. - He told us a dubious story about a series of unbelievable events that he claimed had caused his delay. Der. (n.) dubiety, dubiousness; (adv.) dubiously. 
+duplication - (n.) the action of making copies of an object. e.g. - The teacher realised that the student had copied his homework from his friend since there was some duplication in the mistakes that were made. Der. (v.) duplicate; (adj.) duplicated.  
 duplicitous - (adj.) relating to living a deceptive or double life. e.g. - The duplicitous man had two wives, neither of whom knew of the other's existence. Der. (adv.) duplicitously. 
-dwindle - (v.) to decrease in size or amount. e.g. - The size of the class has dwindled from twenty-five students to five. Der. (adj.) dwindling. 
+dwindle - (v.) to decrease in size or amount. e.g. - The size of the class has dwindled. We began with twenty-five students and now have only five. Der. (adj.) dwindling. 
 dysfunction - (n.) failure to function property. e.g. - The dysfunction in their relationship caused the couple to file for divorce. Der. (adj.) dysfunctional. 
-earnest - (adj.) relating to sincerity in character. e.g. - If you are earnest when speaking about your problem, you will certainly receive support and sympathy. (n.) earnestness; (adv.) earnestly. 
+earnest - (adj.) relating to sincerity in character. e.g. - If you are earnest when speaking about your problem, you will certainly receive support and sympathy. Der. (n.) earnestness; (adv.) earnestly. 
 eerie - (adj.) frightening; scary. e.g. - Why do you watch those eerie films? You know you always feel afraid afterwards. Der. (adv.) eerily. 
 effigy - (n.) a monument or memorial shaped in the likeness of a particular individual. e.g. - An effigy of a soldier can be found in the centre of many villages. 
 elaborate - (adj.) developed; containing many details. e.g. - He told such an elaborate story that it was impossible to remember all the details. Der. (n.) elaboration; (v.) elaborate; (adv.) elaborately. 
@@ -318,7 +318,7 @@ embezzle - (v.) to use one's own position to steal company money or property for
 embroil - (v.) to cause to become involved in a conflict. e.g. - She became embroiled in the argument by telling a different version of events. 
 eminent - (adj.) showing superiority or high achievement in one's profession. e.g. - The professor was eminent in the field of micro-biology and had written several well-known books on the subject.
 emission - (n.) to give off or send out light, sound, or smell. e.g. - The emission of poisonous gases into the atmosphere is illegal. Der. (v.) emit. 
-emulate - (v.) to imitate or equal in quality. e.g. - Your brother Is a perfect child. You should try to emulate him. Der. (n.) emulation; (adj.) emulate. 
+emulate - (v.) to imitate or equal in quality. e.g. - Your brother is a perfect child. You should try to emulate him. Der. (n.) emulation; (adj.) emulate. 
 encompass - (v.) to involve or include (the longer one). e.g. - Business Studies encompass the subjects of marketing and economics. 
 encounter - (v.) to meet or come across. e.g. - I encountered Jane in the shopping mall, although we hadn't arranged to meet. Der. (n.) encounter. 
 endeavour - (v.) to attempt with difficulty. e.g. - The doctor will endeavour to see you this afternoon, although his schedule is quite full. Der. (n.) endeavour. 
@@ -346,7 +346,7 @@ exacerbate - (v.) to make worse or more severe. e.g. - He exacerbated the fire b
 exaggerate - (v.) to overstate in size or amount. e.g. - The fisherman exaggerated by saying that he had caught a twelve pound fish when, in fact, it weighed only six pounds Der. (n) exaggeration; (adj.) exaggerated; (adv.) exaggeratedly. • • • 
 exalt - (v.) to give praise and glory. e.g. - The soldier was exalted for the bravery he displayed in battle.
 exasperation - (n.) a state of extreme irritation or annoyance. e.g. - He felt exasperation when the building collapsed while he was just finishing the repairs. Der. (v.) exasperate; (adj.) exasperated, exasperating; (adv.) exasperatingly.
-exclusive - (adj.) capable of use or possession only by a limited group. e.g. - The news report was broadcast only by one channel. Der. (n.) exclusivity; (v.) exclude; (adj.) exclusive. exclusively - (adv.)
+exclusive - (adj.) capable of use or possession only by a limited group. e.g. - The exclusive news report was broadcast only by one channel. Der. (n.) exclusivity; (v.) exclude; (adj.) exclusive. exclusively - (adv.)
 exertion - (n.) excessive physical activity. e.g. - Much exertion was required to climb the mountain. Afterwards, the climbers were exhausted. Der. (v.) exert; (adj.) exerting.
 exhale - (v.) to expel air out by breathing. e.g. - He exhaled the cigarette smoke by breathing it out of his nose and mouth. Der. (n.) exhalation.
 exhaust - (n.) the expenditure of gas from a machine. e.g. - The exhaust from automobiles has caused environmental problems in all major European cities.
