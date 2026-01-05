@@ -1,8 +1,8 @@
 const data = {
 "List1":
-`abashed - (adj.) embarrassed. e.g. - She Is easily abashed and often turns red from embarrassment. Der. (v.) abash; (adj.) bashful. 
+`abashed - (adj.) embarrassed. e.g. - She is easily abashed and often turns red from embarrassment. Der. (v.) abash; (adj.) bashful. 
 abdomen - (n.) the part of the body between the chest and legs. e.g. - The pregnant woman's abdomen grew larger every month. Der. (adj.) abdominal. 
-abscond - (v..) to leave a place secretly and go into hiding with stolen money. e.g. - Jeff stole money from the company for which he was chief accountant. Later, he absconded with the funds and is currently thought to be living in Brazil. 
+abscond - (v.) to leave a place secretly and go into hiding with stolen money. e.g. - Jeff stole money from the company for which he was chief accountant. Later, he absconded with the funds and is currently thought to be living in Brazil. 
 absorb - (v.) to use up or totally command someone's attention. e.g. - He is absorbed in his studies at present and rarely has time for anything else. Der. (n.) absorbency; (adj.) absorbent. 
 abstemious - (adj.) refraining from indulgence in food or drink. e.g. - An abstemious lifestyle is required in order to lose weight. Der. (adv.) abstemiously. 
 abstinence - (n.) the action of refraining from or not participating in certain activities. e.g. - Abstinence from smoking will ensure good health. Der. (v.) abstain. 
@@ -303,7 +303,7 @@ dubious - (adj.) doubtful in quality. e.g. - He told us a dubious story about a 
 duplication - (n.) the action of making copies of an object. e.g. - The teacher realised that the student had copied his homework from his friend since there was some duplication in the mistakes that were made. Der. (v.) duplicate; (adj.) duplicated.  
 duplicitous - (adj.) relating to living a deceptive or double life. e.g. - The duplicitous man had two wives, neither of whom knew of the other's existence. Der. (adv.) duplicitously. 
 dwindle - (v.) to decrease in size or amount. e.g. - The size of the class has dwindled. We began with twenty-five students and now have only five. Der. (adj.) dwindling. 
-dysfunction - (n.) failure to function property. e.g. - The dysfunction in their relationship caused the couple to file for divorce. Der. (adj.) dysfunctional. 
+dysfunction - (n.) failure to function properly. e.g. - The dysfunction in their relationship caused the couple to file for divorce. Der. (adj.) dysfunctional. 
 earnest - (adj.) relating to sincerity in character. e.g. - If you are earnest when speaking about your problem, you will certainly receive support and sympathy. Der. (n.) earnestness; (adv.) earnestly. 
 eerie - (adj.) frightening; scary. e.g. - Why do you watch those eerie films? You know you always feel afraid afterwards. Der. (adv.) eerily. 
 effigy - (n.) a monument or memorial shaped in the likeness of a particular individual. e.g. - An effigy of a soldier can be found in the centre of many villages. 
