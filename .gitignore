@@ -1,0 +1,3 @@
+.vscode
+extra-tools/*
+!extra-tools/*.cpp
