@@ -359,7 +359,197 @@ extenuating - (adj.) relating to lessening the seriousness of a charge; mitigati
 extermination - (n.) the action of killing insects or rodents. e.g. - After discovering several mice in our kitchen, it was necessary to call a company into our home for extermination. Der. (v.) exterminate.
 extortionate - (adj.) excessively expensive; (syn.) exorbitant. e.g. - He paid the extortionate price of £5000 for a pair of tennis shoes. Der. (adv.) extortionately.
 extract - (v.) to remove. e.g. - The information you need can be extracted from this book. Der. (n.) extract, extraction; (adj.) extracted.
-extravagant - (adj.) unnecessarily high in price or expense. e.g. - Giving your girlfriend a new car for her birthday was too extravagant. You should have given her a much cheaper present. Der. (n.) extravagance.`
+extravagant - (adj.) unnecessarily high in price or expense. e.g. - Giving your girlfriend a new car for her birthday was too extravagant. You should have given her a much cheaper present. Der. (n.) extravagance.`,
+"List3":
+`fable - (n.) a story based on magical happenings. e.g. - That story is a fable because it's not possible for a frog to turn into a handsome prince. 
+fabricate - (v.) manufacture; (syn.) assemble. e.g. - Alfonso fabricated a huge story which was made of lies. Der. (n.) fabrication; (adj.) fabricated. 
+face the music - (id.) to accept reality. e.g. - Face the music! Your girlfriend isn't coming back to you! 
+facetious - (adj.) relating to inappropriate humour or jokes. e.g. - When I said that Tom Cruise was my cousin, I was only being facetious. I never thought that you would take me seriously. Der. (adv.) facetiously. 
+fad - (n.) an attraction or fashion existing for a short period of time with overwhelming interest. e.g. - Bell-bottomed jeans were a fad in the 1960's. 
+fade - (v.) to gradually lose colour. e.g. - Blue jeans fade after repeated washing and become lighter in colour. Der. (adj.) faded. 
+fair-weather friend - (id.) loyal only during times of good fortune. e.g. - Don't trust him. He's a fair-weather friend. 
+fallacious - (adj.) incorrect as a result of being based on false theories or beliefs. e.g. - The theory that the earth is flat is totally fallacious. Der. (n.) fallacy; (adv.) fallaciously. 
+fatality - (n.) a death caused by an accident or natural disaster. e.g. - Three -----s resulted from the road accident. A man, woman, and child were reported dead. Der. (adj.) fatal; (adv.) fatally. 
+fathom - (v.) to understand or comprehend, esp. with difficulty. e.g. - I can't fathom this chemistry homework. Can you explain it to me? Der. (adj.) fathomable; (ant.) unfathomable. 
+feat - (n.) accomplishment. e.g. - Receiving a university degree by the age of thirteen is quite an amazing feat. 
+feeble - (adj.) lacking in strength, esp. as a result of old age. e.g. - Anne's grandmother is quite feeble and cannot lift heavy objects. Der. (adv.) feebly. 
+feel together - (id.) to feel organised and well. e.g. - I wouldn't approach your boss for a raise today. She can't be -----ing after the way she drank at the party last night. 
+fellowship - (adj.) relating to the gathering of individual members in a group or society. e.g. - The fellowship of Veterans of Former Wars gathers once a month for a meeting in the town hall. 
+fertiliser - (n.) chemicals applied to planted fields to enhance growth and increase production. e.g. - Health conscious people prefer naturally-grown organic vegetables as they believe that the fertilisers placed on other vegetables are harmful to the health. Der. (v.) fert1hse; (adJ.) fertile; (adj.) fertilised. 
+fervid - (adj.) showing extreme enthusiasm or passion. e.g. - He is a fervid fan of the local football team. He never misses a game. 
+fetter - (v.)(met.) to restrict; to prevent the progress of. e.g. - Being the mother of four young children, she is fettered with responsibility. Der. (n.) fetter. 
+fib - (v.) to lie. e.g. - He fibbed about being related to the President. Der. (n.) fib. 
+fickle - (adj.) changeable or inconstant; capricious. e.g. - She is a very fickle girl and constantly changes her mind. 
+fidget - (v.) to sit restlessly. e.g. - Young children often fidget if they have been sitting in one place for too long. Der. (adj.) fidgeting. 
+figure - (v.)(met.) to think or believe; reckon. e.g. - I figure that he's lying because his story doesn't make sense. 
+figure - (1 )(n.) the shape of a person's body; (2)(n.) amount; number. e.g. - (1) Your figure would be better if you went on a diet. (2) The latest figures indicate that the population of our city is now 10,000. Der. (v.) figure. 
+figure out - (ph. v.) to attempt to understand. e.g. - I can't figure out my math homework. 
+fizzle out - (id.) to reduce gradually in amount or quality. e.g. - Interest in our exercise class has -----ed. There are only two students left. 
+flank - (v.) to be located on both sides of someone or something. e.g. - Our house is flanked by a grocery store on the east and a parking lot on the west. 
+flap - (n.) a piece of paper or cardboard which is placed over an adjoining piece. e.g. - You must moisten the flap in order to seal the back of the envelope. 
+flaunt - (v.) to show or display something obviously or pretentiously. e.g. - She flaunted her new diamond ring by waving her hand 1n front of my face. Der. (adj.) flaunted. 
+flaw - (n.) an imperfection in appearance or function. e.g. - The jacket had a serious flaw since one sleeve was longer than the other. Der. (adj.) flawed. 
+flicker - (n.) a small flame. e.g. - The flicker from the candle provided enough light to see in the dark room. Der. (v.) flicker. 
+flinch - (v.) to experience involuntary spasms as a result of pain. e.g. - The man's legs flinched and jerked when they were crushed in the accident. Der. (n.) flinch. 
+flirt with disaster - (id.) to become involved in a dangerous or risky situation. e.g. - Every time you drive over the speed limit, you are just -----ing. 
+flock - (n.) a group of animals, such as sheep or birds. e.g. - The flock of sheep was gathered at the north end of the field. Der. (v.) flock. 
+flog a dead horse - (id.) to waste effort talking about a situation that cannot be changed. e.g. - My classmate is always talking about failing her exams. She is -----ing. 
+flop - (n.)(met.) a complete and total lack of success. e.g. - His business was a flop because he didn't know how to manage his money. 
+flounder - (v.) to work without obtaining results; to struggle. e.g. - Chris really floundered during his first few weeks on the job since his boss did not provide any instructions or assistance. Der. (adj.) floundering. 
+flourish - (v.) to reach the highest state of activity or development. e.g. - Flowers flourish if they are grown in the warmth of a greenhouse. 
+fluctuate - (v.) to change back and forth. e.g. - The weather often fluctuates from hot to cold at this time of year. Der. (n.) fluctuation. 
+fodder - (n.) animal food. e.g. - The horse was in the stable, eating his fodder. 
+foil - (v.) to thwart or prevent the progress of. e.g. - The bank robber's plan was foiled when the security alarm went off. Der. (adj.) foiled. 
+folklore - (n.) traditional stories. e.g. - Some books are based on fact. Others are based on folklore. 
+for all intents and purposes - (id.) for all practical purposes; in effect. e.g. - My computer is useless for all intents and purposes since I cannot use new software on it. 
+for keeps - (id.) to take possession or ownership of sthg forever. e.g. - He gave me a diamond ring for keeps. 
+forage - (v.) to search for something, esp. in the countryside. e.g. - She was -----ing in her disorganised closet, looking for her favourite pair of shoes. 
+forecast - (v.) to predict; to estimate. e.g. - The meteorologist forecasts snow for tomorrow. Der. (n.) forecast. 
+foremost - (adj.) the most important or noteworthy. e.g. - First and foremost you must always be honest. 
+forerunner - (n.) current authority or leader. e.g. - Coca-Cola is a forerunner in the soft drink industry. 
+forlorn - (adj.) loneliness and despair; (syn.) desolate. e.g. - He felt forlorn after his wife filed for divorce. Der. (n.) forlornness; (adv.) forlornly. 
+fortitude - (n.) strength; courage. e.g. - He showed great fortitude in saving the drowning man from the raging river. Der. (v.) fortify; (adj.) fortified. 
+fortuitous - (adj.) happening by chance or accident; unplanned. e.g. - I had a fortuitous meeting with an old friend today. By coincidence, we both happened to be in the doctor's office at the same time. Der. (adv.) fortuitously. 
+foster - (v.) to adopt or encourage; nurture. e.g. - You'd feel more optimistic if you fostered a positive attitude. 
+fraction - (n.) a part or percentage of the whole. e.g. - He ate only a fraction of the pie. Three-quarters of it is left. Der. (v.) fractionalise; (adj.) fractional; (adv.) fractionally. 
+fracture - (n.) a broken bone. e.g. - Tom had many fractures as a result of the car accident. Der. (v.) fracture; (adj.) fractured. 
+frail - (adj.) being easily broken; weak. e.g. - Elderly people suffer from frail bones that can break easily. Der. (n.) frailty; (adv.) frailly. 
+fraudulent - (adj.) based on trickery or dishonesty. e.g. - His offer to make you president of his company is entirely fraudulent since no such company exists. Der. (n.) fraud; (adv.) fraudulently. 
+fraught - (adj.) to be full of something. e.g. - He is fraught with nervousness these days about his upcoming wedding. 
+fresh out of sthg - (id.) to have exhausted the supply of something. e.g. - We are ----- grapefruit today ma'am. You'll need to come back again tomorrow. 
+fret - (v.) to be anxious with worry. e.g. - Joanne has been fretting about her exam results. She is worried that she might have failed. Der. (n.) fret. 
+frigid - (adj.) extremely cold; freezing. e.g. - The frigid weather caused the plants to freeze. Der. (n.) frigidity; (adv.) frigidly. 
+frivolous - (adj.) without seriousness or importance. e.g. - Don't you think it was frivolous of her to complain about losing such a small amount of money? 
+frolic - (v) to run and play freely. e.g. - The children were frolicking in the playground. Der. (n.) frolic; (adJ.) frohcsome.  
+frontier - (n.) an unclaimed or unsettled area or territory e.g. -  Outer space is an unexplored frontier.
+frugal - (adj.) to be very restrictive with money or in spending. e.g. - Isabel is very frugal as she is living on a pension.
+fruitful - (adj.) relating to something which is very productive. e.g. - I had a fruitful afternoon at the office. I finished all of my work. Der. (adv.) fruitfully.
+fugitive - (n.) an individual who has escaped or is running from the law. e.g. - Charles escaped from prison five years ago and now lives his life hiding as a fugitive. 
+fulsome - (adj.) abundant or excessive. e.g. - He received fulsome praise for returning the lost ten dollars. Der. (n.) fulsomeness; (adv.) fulsomely. 
+fumbling - (adj.) failing to obtain the desired result; (syn.) floundering. e.g. - He made many fumbling attempts, but was never successful. Der. (v.) fumble. 
+fume - (1)(n.) vapour; (syn.) exhaust; (2)(met.)(v.) to be very angry. e.g. - (1) The odour from this paint is so strong that I am getting a headache from the fumes. (2) He was -----ing after I insulted him. 
+fundamental - (adj.) basic; (syn.) rudimentary. e.g. - The law of gravity is one of the fundamental rules of physics. Der. (adv.) fundamentally.
+gait - (n.) an individual's style of running, walking, or stepping. e.g. - He finished the race first because he ran with the fastest gait. 
+garbled - (adj.) confused or unclear in meaning. e.g. - He left a garbled message that no one could understand. Der. (v.) garble. 
+Garish - (adj.) the quality of being displayed excessively or tastelessly. e.g. - The interior decorations of their house were garish: red carpeting, orange curtains, and a purple sofa. Der. (adv.) ganshly. 
+garnish - (n.) fruit or vegetable pieces added to food or drinks to enhance their appearance. e.g. - Slices of lemon or orange are used as garnishes for dishes served in restaurants. Der. (v.) garnish. 
+garrulous - (adj.) talkative; outgoing; (syn.) gregarious, ebullient. e.g. - He is so garrulous that sometimes it's difficult to make him stop talking. Der. (adv.) garrulously. 
+gash - (n.) a long, deep cut. e.g. - He got a gash on his finger when the knife he was using to cut the cheese slipped from his hand. Der. (v.) gash. 
+gauge - (n.) a small machine which is used for measuring. e.g. - The gauge on this machine will measure the air pressure inside the tires. Der. (v.) gauge. 
+gear (towards) - (v.) to make to satisfy a certain condition. e.g. - The style of clothes in that store is geared towards teenagers. You won't be able to find a gift for your mother there. Der. (n.) gear. 
+genial - (adj.) polite, well-mannered. e.g. - He is very genial. Not once have I heard him speak in a rude or impolite way. Der. (adv.) genially. 
+get on like cats and dogs - (id.) to be entirely incompatible. e.g. - I can't live with my mother. We get on like cats and dogs. 
+get in touch - (id.) to get in contact with someone. e.g. - Get in touch with me next week. You can telephone me at home. 
+get on sbdy's good side - (id.) to win someone's favor. e.g. - He tried to ----- teacher's ----- by bringing her gifts. 
+get the lowdown on something - (id.) to obtain secret or inside information about something. e.g. - Did you -----? I heard a rumour that the factory is going to close. 
+gimmick - (n.) a trick or feature used to attract to attention. e.g. - Free gifts or samples are often included with new products as a gimmick to entice the customer to buy them. 
+give sbdy a lift - (id.) to give someone a ride in your car. e.g. - Can you ----- me ----- into town?
+give sbdy the creeps - (id.) to frighten someone. e.g. - Horror movies ----- me -----. 
+give sbdy a break - (id.) to stop giving harsh treatment to an individual. e.g. - What do you mean? You won't help me! ----- me ----! 
+glum - (adj.) without hope; depressed. e.g. - Bruce is really glum these days. He is unhappy about failing his exams again. Der. (adv.) glumly. 
+gnaw - (v.) to chew on, esp. continuously. e.g. - The rats were gnawing on the wood with their teeth. 
+go-ahead - (n.) a gesture of authority or approval. e.g. - After weeks of refusing, the manager finally gave the go-ahead for the project. 
+gobble - (v.) to eat quickly or greedily. e.g. - He gobbled the food like a pig and got a stomach ache from eating so quickly. 
+go-between - (n.) an individual who makes arrangements or mediates. e.g. - He acted as a go-between in arranging the blind date for his two friends. Der. (ph. v.) go between. 
+gorgeous - (adj.) very beautiful; stunning. e.g. - The winner of the beauty contest was a very gorgeous woman. 
+grab a bite - (id.) to go for a meal, esp. quickly. e.g. - Let's grab a bite for lunch.
+grain - (n.) seeds of cereal plants, such as corn or wheat. e.g. - Food products such as rice and corn are grains. 
+grasp - (1)(v.) to hold or embrace with the hands or arms; (syn.) clasp, clutch; (2)(met) to understand. e.g. - (1) Mary stood at the bus stop, grasping her bags in her hands. (2) 1can't grasp what you are saying. Can you please explain it to me again? Der. (n.) grasp. 
+grasping at straws - (id.) to try many alternative solutions in desperation. e.g. - You don't knoW the answer to the homework so now you re grasping at straws. 
+graze - (v.) to feed on grass. e.g. - The sheep were -----ing in the meadow, eating grass. 
+green - (id.) inexperienced; without knowledge. e.g. - The new employee is green since today is his first day on the job, and he has no previous experience.
+grimy - (adj.) dirty; filthy. e.g. - They live like pigs. Their house is so grimy. Der. (n.) grime.
+grove - (n.) a small group of trees, which often bear fruit or nuts. e.g. - We have a small grove of pine trees in our front yard.
+grow on - (id.) to get used to. e.g. - I didn't like my new school too much at first, but it has started to grow on me.
+grumble - (v.) to complain; (syn.) whine. e.g. - There ls no reason to grumble about your job. If you don't like it, find a new one. Der. (n.) grumble. 
+haggle - (v.) to engage in discussions with buyers or sellers in order to agree upon a price; negotiate. e.g. - He haggled with the car salesman In order to negotiate a good price. 
+hamlet - (n.) a small town or village. e.g. - Two-hundred years ago, Newcastle was a small hamlet, but now it's a huge city. 
+handle sthg - (id.) to endure or tolerate something. e.g. - I just can't ----- waking up so early in the morning. 
+handy - (adj.) near at hand; easy to use; convenient. e.g. - The neighbourhood convenience store is handy because it's very close to our house. 
+harvest - (v.) to gather produce from a field. e.g. - The farmer harvested the apples in the fall by picking them from the trees. Der. (n.) harvest. 
+haughty - (adj.) overly proud. e.g. - She was haughty about winning first prize in the contest. Der. (adv.) haughtily. 
+haunted - (adj.) relating to places that are believed to be occupied by ghosts or spirits of the dead. e.g. - Many people believe that spirits of the dead ----- graveyards. Der. (v.) haunt. 
+have a one-track mind - (id.) to only have one thing on your mind. e.g. - She -----. All she ever thinks about is money. 
+have pull - (id.) to be influential. e.g. - I think he can get us tickets for the match on Sunday. He ----- with the team. 
+He made his bed, and now he can lie in it - (id.) a person must face the consequences of his or her actions. e.g. - It was his own decision to cheat on the exam. Now that he got caught, I can only say that he made his bed, and now he can lie in it. 
+heard it through the grapevine - (id.) to hear some people talking or gossiping about a subject. e.g. - I wasn't told the news about the situation directly. I heard it through the grapevine. 
+hearth - (n.) the floor of a fireplace. e.g. - The fire was burning in the hearth.
+hearty - (adj.) relating to physical strength and good health; (syn.) strapping. e.g. - Regular exercise and healthy food will make you hearty. Der. (n.) heartiness; (adv.) heartily. 
+hectic - (adj.) exceptionally active or busy. e.g. - What a hectic day. I haven't had a moment to rest. Der. (adv.) hectically. 
+heinous - (adj.) exceptionally shocking or horrible. e.g. - The murder of the young children was a heinous crime and should be punished severely. 
+hilarious - (adj.) very funny or humorous. e.g. - She told a hilarious story which caused everyone to break out into fits of laughter. Der. (n.) hilarity; (adv.) hilariously. 
+hindrance - (n.) the action of holding back, delaying, or preventing the progress of something; (syn.) obstacle; stumbling block. e.g. - His constant interruptions were a hindrance to the completion of the job. Der. (v.) hinder. 
+hindsight - (n.) the understanding of the consequences of an event after it has occurred. e.g. - With hindsight, he realises the mistakes he has made in his past. 
+hit the nail on the head - (id.) to make an appropriate remark or statement. e.g. - The politician hit the nail on the head when he said that more financial aid should be offered to students. 
+Hit the road - (id.) Go away. Leave me alone. (syn.) Take a hike! e.g. - A strange man was bothering me in the mall so I told him to hit the road. 
+hit the spot - (id.) That was just what I was craving. e.g. - Lemonade really ----- on a hot summer day. 
+hoarse - (adj.) unpleasant or rough in sound. e.g. - My brother is hoarse from shouting too much at the football game last night. Der. (adv.) hoarsely. 
+hoax - (n.) a fictitious report of a sighting or event. e.g. - His report of viewing an aircraft from outer-space was a total hoax. 
+hold a grudge - (id.) to bear resentment towards another person. e.g. - Julia is still -----ing because I criticised her work. 
+hold your tongue - (id.) to keep one's opinions to oneself. e.g. - I wanted to tell her off but I -----. 
+Hollow - (adj.) relating to objects that are not solid in content. e.g. - The children were disappointed that the candy was hollow and did not have a filling in the center Der. (n.) hollowness; (v.) hollow; (adv.) hollowly. 
+hop in - (id.) get inside my car. e.g. - I'll take you to the store. Hop in. 
+How come? - (id.) Why? e.g. - She's not going out tonight. How come?
+hunch - (n.) an instinctive feeling or idea. e.g. - I didn't have any proof that he was lying. It was only a hunch.
+hurl - (v.) to throw with great force or strength. e.g. - The rugby player hurled the ball to his teammate, who caught it. 
+hushed - (adj.) quiet; subdued. e.g. - The examination hall was hushed as the students were writing. It was so quiet that you could hear a pin drop. Der. (v.) hush; (n.) hush. 
+idle - (adj.) inactive or non-functioning. e.g. - The plant is closed because it is idle this month. 
+ignite - (v.) to start a fire. e.g. - The police investigation determined that the fire had been ignited with gasoline. Der. (n.) ignition. 
+illicit - (adj.) illegal. e.g. - Illicit drugs, such as heroin and cocaine, have become a serious problem of modem society. Der. (adv.) illicitly. 
+immaculate - (adj.) exceptionally clean or tidy. e.g. - Her house was so immaculate that no dust or dirt could be seen. Der. (adv.) immaculately. 
+immature - (adj.) childish. e.g. - Although my brother is 50 years old, he is immature and behaves like a child. Der. (n.) immaturity; (ant.) mature. 
+immense - (adj.) huge or extensive. e.g. - You wrote a 2,000 page book. That must have required an immense amount of work. Der. (adv.) immensely. 
+impact - (n.) effect; consequence. e.g. - Your failure to work hard now will have a negative impact on your future. Der. (v.) impact. 
+impartial - (adj.) relating to treatment with fairness and equality; unbiased. e.g. - An impartial teacher does not have favourite students, but treats all students equally. Der. (n.) impartiality; (adv.) impartially. 
+impeccable - (adj.) without fault or blame; perfect. e.g. - I don't believe his behaviour is as impeccable as you say. Nobody's perfect, you know. Der. (adv.) impeccably. 
+imperative - (adj.) essential; exceptionally urge~t or important. e.g. - It is imperative that this medicine be taken exactly every eight hours. Failure to do so can result in death. 
+implement - (n.) a tool or piece of equipment used for a specific purpose. e.g. - Several implements, such as ploughs, are needed to harvest crops from the fields in the fall. Der. (n.) implementation; (v.) implement. 
+implicate - (v.) to show proof of the commission of or involvement in a crime; (syn.) incriminate. e.g. - His possession of the gun used in the murder implicated him in the crime. Der. (n.) implication. 
+implore - (v.) to beg; (syn.) entreat, beseech. e.g. - The prime Minister implored the nation for its support during the country s economic crisis. Der. (adj.) imploring; (adv.) imploringly. 
+imposing - (adj.) overwhelming in size or amount. e.g. - A flat in Belgravia can cost over £1,000,000, which is far too imposing for most people. Der. (v.) impose. 
+impregnable - (adj.) incapable of being entered or penetrated. e.g. - The castle was impregnable and could not be invaded by the enemy. Der. (n.) impregnability; (adv.) impregnably. 
+impropriety - (n.) improper behaviour. e.g. - I can't believe you had the impropriety to flirt with your boss's wife. Der. (ant.) propriety. 
+in the red - (id.) to have a negative numerical balance. e.g. - The company had to close down after operating in the red for months. 
+incidental - (adj.) not relating to the main part; minor. e.g. - Your comments are only incidental and will not have an effect on our final decision. Der. (adv.) incidentally. 
+incongruity - (n.) incompatibility or disagreement between or among things. e.g. - There is total incongruity between the lies he told and reality. Der. (adj.) incongruous; (ant.) congruity. 
+incriminate - (v.) to show proof concerning the commission of or involvement in a crime; (syn.) implicate. e.g. - The presence of the attacker's blood type at the murder scene incriminated him in the crime. Der. (n.) incrimination; (adj.) incriminating. 
+indefatigable - (adj.) incapable of experiencing fatigue or exhaustion. e.g. - My boss is indefatigable. He never gets tired and is always energetic. Der. (adv.) indefatigably. 
+indigent - (adj.) living in conditions of poverty. e.g. - Without a home or a job, she is indigent and is living on the streets. Der. (n.) indigence. 
+indignant - (adj.) feeling anger as a result of being unfairly accused of a wrongdoing. e.g. - He became indignant when his wife wrongly accused him of cheating on her. Der. (n.) indignity; (adv.) indignantly. 
+indispensable - (adj.) essential; necessary. e.g. - Fresh food and water are indispensable for human survival. Der. (n.) indispensability; (adv.) indispensably. 
+indulge - (v.) to enjoy sthg without discipline, control, or restraint. e.g. - If you indulge in too much food, you will become fat. Der. (n.) indulgence; (adj.) indulgent; (adv.) indulgently. 
+industrious - (adj.) relating to very hard-working individuals. e.g. - The manager received a promotion because he was so industrious. 
+infirmity - (n.) the condition of being weak as a result of illness, injury, or disease. e.g. - His broken leg has never healed properly. This infirmity causes him great pain, especially when walking. Der. (adj.) infirm. 
+infringement - (n.)(syn.) violation. e.g. - Cheating on examinations is an infringement of the academic integrity policy of the university. Der. (v.) infringe. 
+infuriate - (v.) to cause to become extremely angry. e.g. - Your comment that I am stupid really infuriates me! Der. (n.) fury; (adj.) furious. 
+ingenious - (adj.) exceptionally intelligent, intellectual, or inventive. e.g. - Men such as Einstein and Edison were highly ingenious. 
+inhabitant - (n.) resident. e.g. - He has been an inhabitant of Boston for the past fifteen years. Der. (v.) inhabit. 
+inhale - (v.) to draw air in by breathing. e.g. - He inhaled the cigarette smoke deep into his lungs. Der. (n.) inhalation. 
+inheritance - (n.) the action of receiving money or specific property upon another person's death. e.g. - James received a substantial inheritance when his parents died, and he is now quite rich. Der. (v.) inherit. 
+inimical - (adj.) harmful or adverse; hostile. e.g. - The United Nations attempts to improve inimical relationships among various countries through goodwill and diplomacy. Der. (adv.) inimically. 
+innate - (adj.) inborn; inherent. e.g. - She has innate musical talent and learned how to play the piano in only two days. Der. (adv.) innately. 
+innocuous - (adj.) not causing harm or injury. e.g. - That snake is not poisonous. In fact, it is totally innocuous. 
+innovative - (adj.) new; novel. e.g. - This innovative machine is bound to replace every similar older machine currently on the market. Der. (n.) innovation; (v.) innovate. 
+inquisition - (n.) the process of subjecting to questioning, esp. extensively; (syn.) interrogation. e.g. - Your mother subjected me to an inquisition. I have never been asked so many questions in my life. Der. (adj.) inquisitive; (adv.) inquisitively. 
+insinuation - (n.) sthg that is implied, inferred, or expressed indirectly. e.g. - His insinuation in saying that I never attended college was that I was stupid. Der. (v.) insinuate. 
+insolent - (adj.) exhibiting a lack of respect; impudent. e.g. - The insolent student told the teacher that he was stupid. Der. (n.) insolence. 
+inspiration - (n.) the action of receiving a profound influence, esp. of a spiritual or creative nature. e.g. - The love and support of her husband were an inspiration to her and helped her to write several romance novels. Der. (v.) inspire; (adJ.) inspired, inspiring. 
+installation - (n.) the action of preparing something for use by setting it up in the designated place. e.g. - The installation of your dishwasher 1s best handled by a plumber. Der. (v.) install. 
+instigate - (v.) to cause or incite improper or destructive behaviour. e.g. - The leader of the gang instigated his followers into stating the riot. Der. (n.) instigation. 
+insulation - (1)(n.) the action of preventing the discharge of electricity or loss of heat; (2)(n.)(met.) - the action of offering an individual protection from the consequences of their actions. e.g. - (1) Insulation was placed In the walls of the building in order to ensure warmth in ensure warmth in the winter. (2) The criminal received insulation from liability after offering a bribe to the judge. Der. (v.) insulate; (adj.) insulated. 
+insuperable - (adj.) incapable of being surpassed or overcome; (syn.) insurmountable. e.g. - The problem with this computer system is insuperable. We have no choice but to abandon it and start over from the beginning. Der. (adv.) insuperably. 
+insurmountable - (adj.)incapable of being passed or over come; (syn.) insuperable.e.g. - His problems seemed insurmountable and in desperation, he felt that he could not go on. Der. (adv.) insurmountably. 
+interrogation - (n.) questioning; (syn.) inquisition. e.g. - A full interrogation was conduded to determine the whereabouts of the stolen diamond. Der. (v.) interrogate. 
+intertwine (with) - (v.)(met.) to become mutually involved in. e.g. - He became intertwined with crime when he agreed to participate in the robbery. 
+intrepid - (adj.) brave; courageous; unafraid. e.g. - The intrepid explorers entered the cave in darkness. Der. (n.) intrepidity, intrepidness; (adv.) intrepidly. 
+intricate - (adj.) very detailed or complicated. e.g. - Advanced mathematics involves many intricate theories and calculations. Der. (adv.) intricately. 
+intrigue - (n.) a secret plan or scheme. e.g. - The political intrigue involved a plan to spy on enemy governments. Der. (v.) intrigue; (adj.) intriguing; (adv.) intriguingly. 
+inundate - (v.) to overwhelm or overpower. e.g. - The area was inundated with rain in the thunderstorm last night. Der. (n.) inundation. 
+invigorate - (v.) to provide energy; to stimulate. e.g. - Jogging in the fresh air always invigorates me. Der. (n.) invigoration; (adj.) invigorating; (adj.) invigorated. 
+irrevocable - (adj.) impossible to be changed, altered, or taken away. e.g. - Once you sign this agreement, it is irrevocable and cannot be changed 1n any way. Der. (adv.) irrevocably; (ant.) revocable. 
+It doesn't hold water - (id.) it's not believable. e.g. - I don't believe him. His story -----. 
+It was a hit - (id.) it was very popular or a huge success. e.g. - The rock group's new song -----. 
+It was a piece of cake - (id.) it was very easy. e.g. - The exam -----. I'm sure I passed.`
 }
 
 Object.keys(data).forEach(key => {
