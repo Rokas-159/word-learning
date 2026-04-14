@@ -549,7 +549,183 @@ invigorate - (v.) to provide energy; to stimulate. e.g. - Jogging in the fresh a
 irrevocable - (adj.) impossible to be changed, altered, or taken away. e.g. - Once you sign this agreement, it is irrevocable and cannot be changed in any way. Der. (adv.) irrevocably; (ant.) revocable. 
 It doesn't hold water - (id.) it's not believable. e.g. - I don't believe him. His story -----. 
 It was a hit - (id.) it was very popular or a huge success. e.g. - The rock group's new song -----. 
-It was a piece of cake - (id.) it was very easy. e.g. - The exam -----. I'm sure I passed.`
+It was a piece of cake - (id.) it was very easy. e.g. - The exam -----. I'm sure I passed.`,
+"List4":
+`jagged - (adj.) consisting of cut or broken edges. e.g. - The attacker threatened to cut his victim with the jagged edge of a broken bottle. Der. (n.) jaggedness; (adv.) jaggedly.
+jeer - (v.) to tease or taunt; to subject to ridicule. e.g. - The cruel children jeered at the overweight boy, calling him "fatty." Der. (n.) jeer; (adj.) jeering; (adv.) jeeringly.
+jeopardise - (v.) to risk or endanger. e.g. - You will jeopardise your health if you continue smoking so much. Der. (n.) jeopardy.
+jot down - (id.) to write quickly in note form. e.g. - He -----ed the number that his friend gave him over the telephone.
+jumbled - (adj.) disorderly or disorganised state; (syn.) cluttered. e.g. - The child's toys were lying in a jumbled pile in the corner of the room. Der. (n.) jumble; (v.) jumble.
+jurisdiction - (n.) the authority to administer and apply laws and regulations. e.g. - The local sheriff has jurisdiction over this town.
+keep in touch - (id.) to stay in contact with someone through telephone calls or correspondence. e.g. - Although my best friend lives miles away, we still manage to keep in touch.
+Keep it down - (id.) Be quiet! e.g. - Keep it down in there! I'm trying to study!
+keep sbdy posted - (id.) to keep someone informed. e.g. - We expect to hear some news next week, so we'll ----- you -----.
+keep the lid on it - (id.) to keep something under control. e.g. - Inflation will continue to increase unless the government can keep the lid on it.
+kernel - (1)(n.) a single seed from an ear of corn; (2)(met.) the basic or essential part. e.g. - (1) Kernels of corn are heated in oil to make popcorn; (2) The kernel of his argument was that I was lying.
+kettle - (n.) a large metal container used for boiling water. e.g. - The water was boiling in the kettle.
+knack - (n.) talent. e.g. - He has a knack for playing the guitar.
+label - (n.) a piece of paper or plastic placed on an item for purposes of identifying its contents. e.g. - The label on the suitcase gave the name and address of its owner. Der. (v.) label.
+lag - (v.) to become delayed or fall behind. e.g. - The race was close at the beginning, but the first runner won when the second runner lagged behind.
+land - (v.) to find or locate. e.g. - You should be able to land a job. There are hundreds of employment opportunities listed in the newspaper advertisements.
+lark - (n.) something done impulsively for fun or amusement. e.g. - We suddenly decided to go to the movies on a lark. Der. (ph. v.) lark about.
+lash - (v.) to strike or hit, esp. with a whip or stick. e.g. - Slaves were often lashed with whips by their masters. This often caused their skin to become red or to bleed. Der. (n.) lash.
+lassitude - (n.) tiredness; exhaustion. e.g. - The marathon runner showed great lassitude after finishing the race and rested on the grass nearby.
+latent - (adj.) hidden; not obvious or visible. e.g. - The refrigerator had a latent defect that could not be discovered, even through careful examination. Der. (adv.) latently; (ant.) patent.
+laud - (n.) praise; honour. e.g. - He graduated at the top of his class and received laud on graduation day. Der. (v.) laud; (adj.) laudable; (adv.) laudably.
+layperson - (n.) an individual possessing common knowledge on a certain subject; non-professional; non-expert. e.g. - He is a layperson on the subject of computers. He has no education or qualifications in that area.
+ledge - (n.) a narrow shelf which sticks out from a wall of building. e.g. - Many birds were sitting outside on the high ledge of the building.
+lenient - (adj.) easy-going about or accepting of the improper behaviour of another person. e.g. - Mary's mother is so lenient. She lets her do whatever she wants. Der. (n.) lenience.
+let it slip - (id.) to divulge secret information. e.g. - That was supposed to be a secret, but he let it slip.
+let the cat out of the bag - (id.) to divulge secret information. e.g. - I told her not to tell anyone, but she let the cat out of the bag.
+liability - (n.) responsibility or obligation according to the law. e.g. - Debts which are owed to others are considered -----s. Der. (adj.) liable.
+licentious - (adj.) offensive in content or lacking in morality; (syn.) vulgar; lewd. e.g. - Movies with licentious subjects may only be seen by adults. Due to their sexual content, these films may not be seen by children.
+lighten up - (id.) to relax. e.g. - You'd better learn to lighten up or you'll have a heart attack.
+like looking for a needle in a haystack - (id.) to search for something that has many possible locations. e.g. - Searching for our lost keys on the beach was like looking for a needle in a haystack.
+limb - (n.) an arm or leg of a human being. e.g. - You'll risk life and limb if you attempt to cross that busy street during rush hour.
+limp - (n.) to walk unevenly, favouring one leg over another. e.g. - Pedro's broken leg did not heal properly, and he now walks with a limp. Der. (v.) limp.
+linger - (v.) to remain or delay departure. e.g. - Fatima lingered at my house, talking until 2:00 a.m., although she intended to have left earlier.
+livelihood - (n.) method of providing financial support for an individual's existence. e.g. - He makes his livelihood by working as a clerk in a grocery store.
+livestock - (n.) animals which are raised for sale. e.g. - The livestock raised on many farms consists of cows and pigs.
+livid - (adj.) angry or furious. e.g. - He was livid when I told him he was stupid and lazy. Der. (n.) lividity.
+loathe - (v.) to hate or despise. e.g. - I loathe waking up early in the morning. I really can't stand it. Der. (n.) loathing; (adj.) loath, loathsome.
+loiter - (v.) to remain in a place without any obvious purpose. e.g. - The youngsters were just loitering at the shopping centre. They had no real interest in buying anything.
+loot - (v.) to seize objects during a robbery or war; (syn.) pillage, plunder. e.g. - The thieves looted the store, taking TVs, stereos, and microwave ovens. Der. (n.) loot; (adj.) looted.
+loquacious - (adj.) eloquent or excessive in speech. e.g. - The loquacious speaker gave a two-hour speech at the graduation ceremony. Der. (n.) loquacity; (adv.) loquaciously.
+lousy - (adj.) very poor; miserable. e.g. - I feel lousy today. I think I'm going to be sick.
+lucrative - (adj.) relating to the production of great wealth or profit. e.g. - He was able to retire early as a result of the large sum of money he had made from lucrative investments. Der. (adv.) lucratively.
+lukewarm - (adj.) being neither hot nor cold; (syn.) tepid. e.g. - I like to bathe in lukewarm water in order to not feel too hot or too cold.
+lunatic - (n.) a crazy person. e.g. - He is acting like a lunatic lately. I think he's gone crazy. Der. (n.) lunacy.
+lurch - (v.) to suddenly change course or direction. e.g. - The car suddenly lurched off the road and crashed into a tree.
+lure - (v.) to attract or entice. e.g. - He was lured into buying the car by its low price. Der. (n.) lure.
+lurk - (v.) to wait secretly in a place for the purpose of doing harm. e.g. - The criminal was lurking in the shadows, waiting to rob the old lady.
+lush - (adj.) abundant in grass and greenery. e.g. - The beautiful, lush garden had plentiful grass and flowers. Der. (n.) lushness; (adv.) lushly.
+magnanimity - (n.) generosity. e.g. - The wealthy family showed great magnanimity in donating such a large sum of money to charity. Der. (adj.) magnanimous; (adv.) magnanimously.
+magnify - (v.) to make larger. e.g. - My grandmother's vision is quite bad. She can read the newspaper only with a special glass that -----s the letters. Der. (n.) magnification; (adj.) magnifying.
+make heads or tails of sthg - (id.) to attempt to understand something with difficulty. e.g. - I can't ----- this map. Do you know which road to take?
+make the grade - (id.) to have an acceptable standard of performance. e.g. - I didn't get to play in the game because I couldn't make the grade.
+make yourself scarce - (id.) to avoid friends because of a situation which has caused conflict. e.g. - I haven't seen Jodi in weeks. She has -----.
+malice - (n.) the desire to inflict harm, esp. when caused by feelings of hatred. e.g. - The victims feel great malice towards their attacker and hope that he receives the death penalty. Der. (adj.) malicious; (adv.) maliciously.
+mandatory - (adj.) required; necessary; obligatory; (syn.) compulsory. e.g. - Completion of this form is mandatory. It must be filled in by every applicant.
+manifest - (v.) to show or display obviously. e.g. - The disease manifests itself as fever and weakness. Der. (n.) manifestation; (adv.) manifestly.
+manifold - (adj.) consisting of a wide variety; many. e.g. - She had manifold reasons for resigning from work, including personal, professional, and health-related problems.
+marginal - (adj.) very small or minimal in amount; nearly unacceptable in performance. e.g. - The company will have to close down if its profits continue to be only marginal. Der. (n.) margin; (adv.) marginally.
+materialise - (v.) to appear or come into existence or reality. e.g. - Her dream of becoming a dancer failed to materialise when she was paralyzed in the accident. Der. (n.) materialization.
+menace - (n.) threat or danger. e.g. - Drugs and guns are a menace to the well-being of today's youth. Der. (v.) menace; (adj.) menacing; (adv.) menacingly.
+mettle - (n.) strength of character; courage. e.g. - The paramedic displayed great mettle in rescuing the man from the burning car.
+migrate - (v.) to leave one climate for another for the purpose of breeding or feeding. e.g. - Certain birds migrate south during the winter in order to find food in warmer climates. Der. (n.) migration; (adj.) migrating.
+militia - (n.) a group of individuals organised for the purpose of military service. e.g. - The militia carried out many exercises in order to prepare for war.
+mischievous - (adj.) causing trouble or annoyance. e.g. - The teacher sent the mischievous pupil to the principal's office. Der. (n.) mischief; (adv.) mischievously.
+misconstrue - (v.) to misunderstand. e.g. - You have misconstrued what I said. When I said you looked beautiful today, I didn't mean that you usually look ugly. Der. (adj.) misconstruable.
+misgiving - (n.) doubt; uncertainty. e.g. - She had misgivings about marrying him when she discovered that he had a prison record.
+mitigate - (v.) to lessen the severity of; (syn.) extenuate. e.g. - Your apology does not mitigate the seriousness of your mistake. Der. (n.) mitigation; (adj.) mitigating; (adj.) mitigated (ant.) unmitigated.
+momentous - (adj.) notable; significant; important. e.g. - Her wedding day was one of the most momentous events of her life.
+monetary - (adj.) relating to money, finance, or the economy. e.g. - The study of economics involves many monetary theories.
+morsel - (n.) a small portion of food. e.g. - A morsel of food is not going to satisfy his appetite.
+mouth off - (id.) to be rude or impudent. e.g. - You should be punished for -----ing to your parents.
+munch - (v.) to make a noise from the mouth while eating. e.g. - I hate the way you munch your food. Can't you eat more quietly?
+municipal - (adj.) relating to the city. e.g. - The municipal authorities pay for the upkeep of city property. Der. (n.) municipality.
+murky - (adj.) dark; unclear. e.g. - The water in the lake was murky. The bottom of the lake could not be seen. Der. (n.) murk, murkiness; (adv.) murkily.
+neutral - (adj.) lacking in colour. e.g. - Their living room has a neutral colour scheme and is predominantly beige and white. Der. (adv.) neutrally.
+nibble - (v.) to eat with very small bites. e.g. - By the way you are -----ing at your food, I take it that you're not very hungry. Der. (n.) nibble.
+nitpick - (id.) to be overly concerned with very small details. e.g. - My boss is very demanding and nitpicks the smallest details.
+nitwit - (id.) an idiot; a stupid person. e.g. - If you don't know that two and two equals four, you are a bigger nitwit than I thought.
+no "if's", "and's" or "but's" - (id.) no excuses will be accepted. e.g. - You will do your homework. No "if's", "and's" or "but's"!
+nominate - (v.) to select a candidate for a particular duty, esp. for public office. e.g. - The class nominated Abdul as their class president in the school election. Der. (n.) nomination.
+notion - idea, theory, or belief. e.g. - Where did you get the crazy notion that the moon is made of cheese?
+notorious - (adj.) relating to fame for despicable or blameworthy events or crimes. e.g. - He is notorious for having committed bank robbery, so everyone recognises him. Der. (n.) notoriety; (adv.) notoriously.
+noxious - (adj.) the quality of possessing a poisonous or deadly gas. e.g. - Gasoline is a noxious substance. Breathing excessive quantities of it can cause death. Der. (n.) noxiousness; (adv.) noxiously.
+obliterate - (v.) to wipe out or destroy. e.g. - Many people fear that the world may be obliterated by nuclear war. Der. (n.) obliteration.
+obsequious - (adj.) behaving like a servant; servile; obedient. e.g. - The waitress was obsequious towards the demanding customer and brought him whatever he asked for. Der. (adv.) obsequiously.
+obsession - (n.) a continuing mental preoccupation with a single thought or idea which is often unreasonable or illogical. e.g. - He continued his obsession with finding a cure for his disease long after the doctor had told him that treatment was impossible. Der. (adj.) obsessive.
+obsolete - (adj.) relating to things which are no longer useful as a result of being replaced or becoming outdated. e.g. - Computers become obsolete quickly nowadays as they are constantly being replaced by newer models. Der. (n.) obsolescence.
+obstacle - (n.) something which holds back, delays, or prevents progress; impediment; (syn.) hindrance, stumbling block, barrier. e.g. - Despite the obstacle of being deaf, Beethoven was able to compose his final symphonies.
+obstinacy - (n.) the action of being rigid in opinion; stubbornness. e.g. - He has displayed great obstinacy on this subject. I don't think that he's going to change his mind. Der. (adj.) obstinate; (adv.) obstinately.
+odious - (adj.) deserving of hate; (syn.) despicable. e.g. - He was convicted of the odious crime of murdering small children.
+on schedule - (id.) to be on time. e.g. - The bus is on schedule today. We should get to work on time.
+once in a blue moon - (id.) something that happens very rarely. e.g. - I don't like bowling, so I do it only once in a blue moon.
+opponent - (n.) enemy; antagonist; (syn.) adversary. e.g. - They are hardly friends. In fact, they are bitter opponents.
+orchard - (n.) a group of fruit, nut, or olive trees; (syn.) grove. e.g. - The farm has an orchard containing apple and pear trees.
+ordeal - (n.) a difficult or trying experience. e.g. - Cancer patients undergoing chemotherapy must endure a difficult ordeal.
+ornate - (adj.) heavily or ostentatiously decorated. e.g. - The ornate castle was decorated with gold and silver, as well as priceless rugs and paintings. Der. (n.) ornateness; (adv.) ornately.
+ostensibly - (adv.) in appearance. e.g. - Ostensibly John is a nice guy, but when you get to know him, you realise that he isn't. Der. (adj.) ostensible.
+ostentatious - (adj.) relating to an obvious display, esp. of wealth. e.g. - It was very ostentatious of Elizabeth to wear such expensive jewellery to a charity event. Der. (adv.) ostentatiously.
+out of the question - (id.) something that is impossible even to consider. e.g. - Going on vacation this year is out of the question. We just don't have enough money.
+ovation - (n.) applause. e.g. - The singer received a standing ovation after his performance. Nothing could be heard over the sound of the applause.
+overabundance - (n.) a huge or plentiful amount. e.g. - An overabundance of rain can result in flooding.
+overstay one's welcome - (id.) to stay longer than one is welcome; to begin to impose upon one's host. e.g. - It was obvious that we had -----ed when she asked us if we would leave her house as soon as possible.
+overtone - (n.) suggestion or implication; hidden meaning. e.g. - I don't like what you are implying. The overtone is that I'm fat and stupid.
+overwhelm - (v.) to overcome or take control of an individual's thoughts, feelings, or actions. e.g. - He was overwhelmed with sadness when his wife died.
+paramount - (adj.) highly important or significant. e.g. - If you want to get good grades, studying is paramount.
+parsimonious - (adj.) exhibiting excessive or extreme care about money and spending. e.g. - The parsimonious man used his tea bags twice in order to save money. Der. (n.) parsimony; (adv.) parsimoniously.
+partake - (v.) to take part in an activity with others; to participate. e.g. - Suki could not partake in the basketball game because she had just broken her leg.
+patent - (adj.) obvious; not hidden; visible. e.g. - The television had a patent defect. The crack in the screen was clearly visible. Der. (adv.) patently; (ant.) latent.
+patriotism - (n.) the love for or loyalty to an individual's country of nationality or citizenship. e.g. - Feelings of patriotism were high when the royal wedding took place. Der. (n.) patriot.
+patronise - (v.) to act as a regular customer; to provide economic support. e.g. - He regularly patronises the restaurant on the corner. He eats there five times a week.
+peak - (n.) the highest point. e.g. - There is a great view of the city from the peak of that mountain. Der. (v.) peak; (adj.) peaked.
+peculiar - (adj.) strange; weird. e.g. - Rosa looked really peculiar in her strange clothes and heavy make-up. Der. (n.) peculiarity; (adv.) peculiarly.
+peeling - (n.) the skin of a fruit or vegetable. e.g. - The peeling of a banana must be removed before it can be eaten. Der. (v.) peel.
+penchant - (n.) desire or preference. e.g. - Cheng is reckless and has a penchant for participating in dangerous activities.
+penetrate - (v.) to enter inside, esp. with force. e.g. - The police penetrated the house where the criminals were hiding by breaking down the front door. Der. (n.) penetration; (adj.) penetrative, penetrable; penetrating; (adv.) penetratingly.
+penitence - (n.) the feeling of deep regret or sorrow about one's wrongdoings; (syn.) remorse, contrition. e.g. - The murderer feels deep penitence for his crimes and made a full public apology to the victims' families. Der. (adj.) penitential.
+perceptible - (adj.) capable of being understood by the senses. e.g. - There has been a very perceptible change in Nadira's behaviour. She used to be quite shy, but now is outspoken. Der. (n.) perception; (v.) perceive; (adv.) perceptibly.
+perfidy - (n.) disloyalty or treason toward an individual's country of national origin. e.g. - The spy was guilty of perfidy because he told military secrets to other countries.
+perjury - (n.) the action of lying while giving a sworn statement in court. e.g. - The witness committed perjury by saying that the suspect was with her at the time of the crime, although he was not. Der. (v.) perjure.
+perpetually - (adv.) continuously. e.g. - I have never seen anyone as talkative as her. She talks perpetually. Der. (n.) perpetuation; (v.) perpetuate; (adj.) perpetual.
+perturb - (v.) to cause disorder or annoyance. e.g. - The little girl's tantrum greatly perturbed her mother. Der. (n.) perturbation; (adj.) perturbable.
+peruse - (v.) to read sthg, esp. carefully or for specific information. e.g. - Hasin perused the book before deciding it was interesting enough to buy. Der. (n.) perusal.
+pervasive - (adj.) affecting all parts of something. e.g. - The changes to the system are pervasive; therefore, the system will need to be completely redone. Der. (n.) pervasion, pervasiveness; (v.) pervade; (adv.) pervasively.
+pessimism - (n.) behaviour marked by expecting the worst to happen. e.g. - Deven has had a lot of bad luck in his life so, understandably, he views his future with pessimism. Der. (adj.) pessimistic; (adv.) pessimistically.
+phlegmatic - (adj.) calm and unemotional. e.g. - He is so phlegmatic. I've never seen him get nervous under pressure. Der. (adv.) phlegmatically.
+phony - (adj.) false, artificial, or insincere. e.g. - Her apology was phony. You should have known that she was being insincere.
+pick a fight - (id.) to encourage a physical attack by displaying a hostile attitude. e.g. - He -----ed by saying that I was too weak to hit him.
+picked over - (id.) to look through carefully in order to choose the best items. e.g. - We had to ----- the fruit at the store because we arrived too late in the day.
+pillage - (n.) the action of robbing or seizing objects, such as in a war. e.g. - The pillage of many shops occurred during the riot when much valuable merchandise was stolen. Der. (v.) pillage.
+pin your hopes on sthg - (id.) to be very hopeful that something will happen. e.g. - I wouldn't ----- being accepted into medical school. You know how tough the competition is.
+pinch pennies - (id.) to be very economical with money or in spending. e.g. - He is -----ing because he lost his job last month.
+pioneer - (n.) an individual who goes into unexplored territory. e.g. - The pioneers travelled west to unsettled land. Der. (v.) pioneer; (adj.) pioneering.
+pique - (v.) to irritate or provoke. e.g. - You piqued my curiosity by telling me that you have a surprise for me. Please tell me more.
+pittance - (n.) a very small wage or amount of money. e.g. - Kazuo makes such a pittance at work that he can hardly feed his children.
+play with fire - (id.) to become involved in a dangerous situation. e.g. - If you decide to cheat on the test, you're really -----ing.
+plentiful - (adj.) abundant; more than enough. e.g. - Plants cannot grow without plentiful sunshine. Der. (n.) plenty; (adv.) plentifully.
+plot - (n.) the organization or plan of a story. e.g. - The plot of the story was about two twins who had been separated at birth. Der. (v.) plot.
+plump - (adj.) fat; thick and round. e.g. - Plump tomatoes make better spaghetti sauce. Smaller ones aren't usually as tasty. Der. (v.) plump.
+ponder - (v.) to think about or consider deeply. e.g. - He sat by the lake for hours pondering the meaning of life. Der. (adj.) ponderable.
+populace - (n.) people residing in a certain area. e.g. - The populace of the city of Chicago is asked to limit its electricity use during the summer. Der. (n.) population; (v.) populate; (adj.) populated.
+posterity - (n.) future generations; descendants. e.g. - The rich man invested his money wisely so that his posterity would have a large inheritance.
+potential - (adj.) possible; capable of becoming fact. e.g. - Every job applicant is considered to be a potential employee. Der. (n.) potential; (adv.) potentially.
+precarious - (adj.) dangerous; (syn.) treacherous. e.g. - His car was hanging off the side of the mountain in a precarious position after the accident. Der. (n.) precariousness; (adv.) precariously.
+precedent - (n.) a previous event, esp. one which establishes a pattern for subsequent behaviour. e.g. - The judge sentenced the criminal to the death penalty. This set a precedent for the use of the death penalty for subsequent crimes. Der. (v.) precede.
+precinct - (n.) territory of a city established for police control. e.g. - New York City has many police precincts, which are usually established according to neighbourhood boundaries.
+precipitate - (v.) to cause or bring about, especially suddenly. e.g. - The violence precipitated full-scale war. Der. (n.) precipitation; (adj.) precipitous.
+predator - (n.) an individual or animal that preys or kills. e.g. - The American black bear is a predator because it kills other animals and sometimes humans.
+predicament - (n.) dilemma; difficult situation. e.g. - He was left in a predicament when his car broke down on the motorway at 4:00 a.m.
+predilection - (n.) a desire or preference. e.g. - She has an overwhelming predilection for chocolate and always wants to eat it.
+predominant - (adj.) playing a major or significant role; (syn.) prominent. e.g. - He was a predominant contributor to the hospital building fund, donating over £1,000,000. Der. (n.) predomination; (v.) predominate; (adv.) predominantly.
+prematurely - (adv.) too early. e.g. - The baby was born prematurely in March. It shouldn't have been born until May. Der. (adj.) premature.
+premise - (n.) an area of land which contains buildings. e.g. - Rashid is a security guard at the factory. His job is to protect the premises against theft.
+prerogative - (n.) a special option, decision, or privilege. e.g. - She wasn't required to attend the lesson. On the contrary, it was her prerogative.
+prevalent - (adj.) commonly practiced; continuing in use or acceptance; (syn.) widespread. e.g. - Skiing is prevalent in mountainous areas. Der. (v.) prevail; (adj.) prevalently.
+pricey - (id.) very expensive. e.g. - They can eat at that pricey restaurant because they have a lot of money.
+proliferation - (n.) an amount which is excessive in growth or quantity; plethora. e.g. - J.S. Bach composed a proliferation of symphonies in his lifetime. Der. (v.) proliferate; (adj.) prolific; (adv.) prolifically.
+prominent - (adj.) playing a major or significant role. e.g. - Your grades in high school play a prominent role in determining which college you can attend. Der. (n.) prominence; (adv.) prominently.
+prompt - (v.) to cause; to bring about a result or action. e.g. - The rainy weather prompted the cancellation of the football match.
+prone (to) - (adj.) having a certain tendency or vulnerability. e.g. - Nico is clumsy and is therefore prone to accidents. Der. (n.) proneness; (adv.) pronely.
+propensity - (n.) a desire or preference that appears natural to a certain person. e.g. - His propensity to overeat is obvious because he is so overweight. Der. (v.) propend; (adj.) propense.
+proposition - (n.) a problem put forward for consideration. e.g. - The city considered the mayor's proposition to build a new road through the city centre. Der. (v.) propose.
+prosecute - (v.) to take to court for the commission of a crime. e.g. - The suspect was prosecuted in court for murder and was found not guilty. Der. (n.) prosecution.
+prostrate - (adj.) lying in a face-down position; sometimes used to describe an act of worship. e.g. - The patient was lying prostrate after his heart attack and had to be turned face-up so that first aid could be administered.
+protocol - (n.) standards of conduct. e.g. - Old-fashioned protocol dictated that men should always open doors for women.
+protract - (v.) to continue for an extended time. e.g. - The journey was protracted by several delays as a result of the bad weather conditions.
+provident - (adj.) the provision for unforeseen events in the future; careful; prudent. e.g. - It was very provident of you to bring an umbrella as rain is forecast. Der. (n.) providence.
+provoke - (v.) to cause or incite anger. e.g. - Her outrageous behaviour provoked her father and caused him to scream and yell at her. Der. (n.) provocation; (adj.) provocative; (adv.) provocatively.
+prudence - (n.) the exercise of care or caution. e.g. - You must exercise prudence in your investments. Otherwise, you might lose a substantial amount of money. Der. (adj.) prudent; (adv.) prudently; (ant.) imprudent.
+pugnacious - (adj.) exceptionally aggressive or quarrelsome in behaviour. e.g. - Sean is so pugnacious. He is always trying to start arguments. Der. (adv.) pugnaciously.
+pull through - (id.) to survive an accident or illness. e.g. - The doctors say that Kareem will pull through his accident.
+punch - (v.) to hit with a closed hand. e.g. - The boxer fell to the floor when he was punched by his opponent. Der. (n.) punch.
+purge - (v.) to dispose of, esp. with force. e.g. - The hospital attendants had to pump the child's stomach in order to purge the poison from his body. Der. (n.) purge.
+pursuit - (n.) a hobby or undertaking. e.g. - His favourite pursuits include stamp collecting and playing the guitar. Der. (v.) pursue.
+put yourself in my shoes - (id.) to try to understand the situation another person is in. e.g. - If you'd put yourself in my shoes, you would understand why I did what I had to do.
+putrid - (adj.) being highly unpleasant or repugnant; rotten. e.g. - This food is putrid and is not fit to eat. Der. (adv.) putridly.`
 }
 
 Object.keys(data).forEach(key => {
