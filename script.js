@@ -79,6 +79,7 @@ function checkAnswer(e) {
             }
             document.getElementById('output').innerText = def;
             document.getElementById('wordInput').value = '';
+            document.getElementById('progress').innerText = `${currentWordIndex+1} / ${shuffedWords.length}`;
 
             console.log(data[list][shuffedWords[currentWordIndex]-1].word);
             
