@@ -7,6 +7,10 @@
     "@capacitor/core": "^6.0.0"
   },
   "devDependencies": {
-    "@capacitor/cli": "^8.3.1"
+    "@capacitor/cli": "^8.3.1",
+    "gh-pages": "^6.3.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d www"
   }
 }
