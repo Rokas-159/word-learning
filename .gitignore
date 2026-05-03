@@ -1,3 +1,5 @@
 .vscode
 extra-tools/*
 !extra-tools/*.cpp
+
+node_modules/

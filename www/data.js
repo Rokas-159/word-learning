@@ -565,7 +565,7 @@ kernel - (1)(n.) a single seed from an ear of corn; (2)(met.) the basic or essen
 kettle - (n.) a large metal container used for boiling water. e.g. - The water was boiling in the kettle.
 knack - (n.) talent. e.g. - He has a knack for playing the guitar.
 label - (n.) a piece of paper or plastic placed on an item for purposes of identifying its contents. e.g. - The label on the suitcase gave the name and address of its owner. Der. (v.) label.
-lag - (v.) to become delayed or fall behind. e.g. - The race was close at the beginning, but the first runner won when the second runner lagged behind.
+lag - (v.) to become delayed or fall behind. e.g. - The race was close at the beginning, but the first runner won when the second runner -----ed behind.
 land - (v.) to find or locate. e.g. - You should be able to land a job. There are hundreds of employment opportunities listed in the newspaper advertisements.
 lark - (n.) something done impulsively for fun or amusement. e.g. - We suddenly decided to go to the movies on a lark. Der. (ph. v.) lark about.
 lash - (v.) to strike or hit, esp. with a whip or stick. e.g. - Slaves were often lashed with whips by their masters. This often caused their skin to become red or to bleed. Der. (n.) lash.
