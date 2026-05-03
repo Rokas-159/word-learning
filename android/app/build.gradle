@@ -3,6 +3,10 @@ apply plugin: 'com.android.application'
 android {
     namespace = "com.github.rokas159.wordlearning"
     compileSdk = rootProject.ext.compileSdkVersion
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_21
+        targetCompatibility JavaVersion.VERSION_21
+    }
     defaultConfig {
         applicationId "com.github.rokas159.wordlearning"
         minSdkVersion rootProject.ext.minSdkVersion
@@ -20,6 +24,7 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.debug
         }
     }
 }
