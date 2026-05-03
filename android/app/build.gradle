@@ -1,14 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace = "com.github.rokas159.wordlearning"
+    namespace = "com.rokas159.wordlearning"
     compileSdk = rootProject.ext.compileSdkVersion
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_21
-        targetCompatibility JavaVersion.VERSION_21
-    }
     defaultConfig {
-        applicationId "com.github.rokas159.wordlearning"
+        applicationId "com.rokas159.wordlearning"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

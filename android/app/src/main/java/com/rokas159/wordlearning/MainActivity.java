@@ -1,4 +1,4 @@
-package com.github.rokas159.wordlearning;
+package com.rokas159.wordlearning;
 
 import com.getcapacitor.BridgeActivity;
 
