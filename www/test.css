@@ -4,9 +4,15 @@
     gap: 50px;
 }
 
+#progress {
+    opacity: 0.4;
+    margin-bottom: 10px;
+}
+
 #output {
     vertical-align: bottom;
     min-height: 5.5em;
+    margin-top: 10px;
 }
 
 .inputBox {
